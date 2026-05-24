@@ -1,0 +1,1262 @@
+================================================================================
+  LABEL: NEUTRAL  (50 Beispiele)
+================================================================================
+  [01] Conv-ID: fc77b9ed8d13697e8deea79de0b4df23
+       Autor:   6f35a1f69fd4ae82056e4bc6a8a84575
+       Text:    a little better what are u doing?
+
+  [02] Conv-ID: fc77b9ed8d13697e8deea79de0b4df23
+       Autor:   6f35a1f69fd4ae82056e4bc6a8a84575
+       Text:    yea i thought u did i just woke and checked to see if u came on and ur here!! :-*
+
+  [03] Conv-ID: fc77b9ed8d13697e8deea79de0b4df23
+       Autor:   6f35a1f69fd4ae82056e4bc6a8a84575
+       Text:    washed some cloths and started feeling bad nd layed down and fell alseep for 6 hours lol
+
+  [04] Conv-ID: e0fabdc12cce220079d5bc02b0631fea
+       Autor:   bdaa4b675589e3b8f93f1655fed3b314
+       Text:    so what brings u into this room
+
+  [05] Conv-ID: e0fabdc12cce220079d5bc02b0631fea
+       Autor:   bdaa4b675589e3b8f93f1655fed3b314
+       Text:    im old 49 here old enough to be your daddy
+
+  [06] Conv-ID: e0fabdc12cce220079d5bc02b0631fea
+       Autor:   bdaa4b675589e3b8f93f1655fed3b314
+       Text:    what r u doing in a 1/2 hr
+
+  [07] Conv-ID: 08f3f8751f5227df321c1af32b21c37d
+       Autor:   d033ef02538095a94f42313f519bed88
+       Text:    nothing much...how have u been doin
+
+  [08] Conv-ID: 08f3f8751f5227df321c1af32b21c37d
+       Autor:   d033ef02538095a94f42313f519bed88
+       Text:    may I sleep there..few hrs:d
+
+  [09] Conv-ID: 08f3f8751f5227df321c1af32b21c37d
+       Autor:   d033ef02538095a94f42313f519bed88
+       Text:    maybe have ur BF help ya out
+
+  [10] Conv-ID: 213e2838ea8be0cda7e54c087a20e418
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    Oh yeah hows brad and darla??? Lol
+
+  [11] Conv-ID: 213e2838ea8be0cda7e54c087a20e418
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    Yeah school is kinda boring.
+
+  [12] Conv-ID: 213e2838ea8be0cda7e54c087a20e418
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    They just do when u get older time slows down lol
+
+  [13] Conv-ID: bc7ca0492117566f5dee60aa9fd4d3e5
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    i came to tonapah and you were't on left at 6 a/m had to get back in carson by 12 talk to you later
+
+  [14] Conv-ID: a3fac35ba29fc6b00ee5bc4c9c93ff2f
+       Autor:   6f35a1f69fd4ae82056e4bc6a8a84575
+       Text:    i had to work late tonight :( hopefully ur on tommorw!
+
+  [15] Conv-ID: 4f98763a722bae70a434600e140e54ba
+       Autor:   f069dbec9ab3e090972d432db279e3eb
+       Text:    hi girl....sorry i missed u....just checking to see if u were here
+
+  [16] Conv-ID: c6930d863f7799d061f6cd124d5c642e
+       Autor:   f538a2a92145534b4b61893399479fcf
+       Text:    sorry i missed you good looking, i just got online to check email then went to work out
+
+  [17] Conv-ID: 9563e3b1a52630a00486a03402947ae9
+       Autor:   0cac6dfd241c5efe4ca07417575e582f
+       Text:    hey there,i'm glad u came on..did u get my off line message?
+
+  [18] Conv-ID: 9563e3b1a52630a00486a03402947ae9
+       Autor:   0cac6dfd241c5efe4ca07417575e582f
+       Text:    i did map quest and got directions,but now i cant find them.i just need the addy again so i can map quest again is all
+
+  [19] Conv-ID: 9563e3b1a52630a00486a03402947ae9
+       Autor:   0cac6dfd241c5efe4ca07417575e582f
+       Text:    i did'nt put it in my wallet hon,i did'nt think
+
+  [20] Conv-ID: c4d7f9b927efb954ccf49856d8da7e44
+       Autor:   13ff9f88ad6e1242f30cb4c7d4a36ed7
+       Text:    i will in the middle of somethng important will chat when done ok
+
+  [21] Conv-ID: c4d7f9b927efb954ccf49856d8da7e44
+       Autor:   13ff9f88ad6e1242f30cb4c7d4a36ed7
+       Text:    i know your tired so em i
+
+  [22] Conv-ID: c4d7f9b927efb954ccf49856d8da7e44
+       Autor:   13ff9f88ad6e1242f30cb4c7d4a36ed7
+       Text:    wait.like home land security
+
+  [23] Conv-ID: 314163ecaef5460ec6608cec3b91d346
+       Autor:   afe8ba8af6d0677a79ce0284cb9cc63a
+       Text:    jst got home from work !!!!>:P
+
+  [24] Conv-ID: 314163ecaef5460ec6608cec3b91d346
+       Autor:   afe8ba8af6d0677a79ce0284cb9cc63a
+       Text:    yes I know (( late day for me,, I dont normally get home like this ((
+
+  [25] Conv-ID: 314163ecaef5460ec6608cec3b91d346
+       Autor:   afe8ba8af6d0677a79ce0284cb9cc63a
+       Text:    ok,, sweetness ,, going to watch the basketball game w/ some friends of mine!!
+
+  [26] Conv-ID: 97aae4106850067e295122b234f802db
+       Autor:   3cf9477a8025ec6420d1e195e2b76324
+       Text:    so when are we going to hang out and watch those movies.
+
+  [27] Conv-ID: 97aae4106850067e295122b234f802db
+       Autor:   3cf9477a8025ec6420d1e195e2b76324
+       Text:    cool. do you think we can hang out tomorrow?
+
+  [28] Conv-ID: 97aae4106850067e295122b234f802db
+       Autor:   3cf9477a8025ec6420d1e195e2b76324
+       Text:    oh ok. so next weekend for sure?
+
+  [29] Conv-ID: 37f5534c6f1fe028649a24e8147900f9
+       Autor:   54cad8b7d3538f5f60c1ffbc2058e945
+       Text:    hey lol i ordered the pizza
+
+  [30] Conv-ID: 37f5534c6f1fe028649a24e8147900f9
+       Autor:   54cad8b7d3538f5f60c1ffbc2058e945
+       Text:    well it might be a while befor i get there but im pickin it up soon then headin down
+
+  [31] Conv-ID: 37f5534c6f1fe028649a24e8147900f9
+       Autor:   54cad8b7d3538f5f60c1ffbc2058e945
+       Text:    yeah i got home after 12 last nite
+
+  [32] Conv-ID: d1463dcc6e6b7b4834a8d69231b46b29
+       Autor:   fac3a2081264f1dbb943eaf7165d8fc3
+       Text:    :-w:-w:-w:-w:-w:-w:-w:-w:-w:-w:-w:-w:-w:-w:-w:-w
+
+  [33] Conv-ID: bf6b97232b110a097945451a7e85b6fc
+       Autor:   0b6b05c740a1bf50ca7f9a461598a3b9
+       Text:    hows my lil sweetie today??
+
+  [34] Conv-ID: bf6b97232b110a097945451a7e85b6fc
+       Autor:   0b6b05c740a1bf50ca7f9a461598a3b9
+       Text:    i also use this chat thing called imvu
+
+  [35] Conv-ID: bf6b97232b110a097945451a7e85b6fc
+       Autor:   0b6b05c740a1bf50ca7f9a461598a3b9
+       Text:    did you think of me last night?
+
+  [36] Conv-ID: e2f4415bae319b53869acc488d16c656
+       Autor:   13ff9f88ad6e1242f30cb4c7d4a36ed7
+       Text:    ya same here...............alot of snow
+
+  [37] Conv-ID: e2f4415bae319b53869acc488d16c656
+       Autor:   13ff9f88ad6e1242f30cb4c7d4a36ed7
+       Text:    i have my ticket and will leave here fri at 11am be there at 2pm
+
+  [38] Conv-ID: e2f4415bae319b53869acc488d16c656
+       Autor:   13ff9f88ad6e1242f30cb4c7d4a36ed7
+       Text:    why u want to go swimming
+
+  [39] Conv-ID: 5b5669cfb3e4b9de64a4739cfeceab8c
+       Autor:   4851d3bd0d66d97ddb4437f0cb527a85
+       Text:    Hon I cant do. I could go to jail for 20 years. I gave bever dione antthing wring in my life.
+
+  [40] Conv-ID: 5b5669cfb3e4b9de64a4739cfeceab8c
+       Autor:   4851d3bd0d66d97ddb4437f0cb527a85
+       Text:    Maddie .... you could be a cop.....I literally have never done anything wrong.... you are the only young adult I talk to ..... all the rest are 22 and up...
+
+  [41] Conv-ID: 5b5669cfb3e4b9de64a4739cfeceab8c
+       Autor:   4851d3bd0d66d97ddb4437f0cb527a85
+       Text:    what is your street number
+
+  [42] Conv-ID: 29f62dedb4bae1f57a49dffb86061e92
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    Hey gf am going to miss u
+
+  [43] Conv-ID: 29f62dedb4bae1f57a49dffb86061e92
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    What time u going to be on?
+
+  [44] Conv-ID: 29f62dedb4bae1f57a49dffb86061e92
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    See u can take some silly
+
+  [45] Conv-ID: 536522ca4f865c17ffe44e9c73c5b36e
+       Autor:   4982b68761043e693da736df5852a7c5
+       Text:    Is it ok u buy a cndom?i just fill up my gas and no mney lft.just tel them its 4 ur science project.please
+
+  [46] Conv-ID: 536522ca4f865c17ffe44e9c73c5b36e
+       Autor:   4982b68761043e693da736df5852a7c5
+       Text:    Yup.ur buying the cndoms?how many?
+
+  [47] Conv-ID: 536522ca4f865c17ffe44e9c73c5b36e
+       Autor:   4982b68761043e693da736df5852a7c5
+       Text:    Im there at 6pm.is it ok if i leave lyk 8 or 9?
+
+  [48] Conv-ID: 333cf34fbd86ac87facd5e4f8a9f0e5a
+       Autor:   3cf9477a8025ec6420d1e195e2b76324
+       Text:    hey cutie. ;) remember me?
+
+  [49] Conv-ID: 333cf34fbd86ac87facd5e4f8a9f0e5a
+       Autor:   3cf9477a8025ec6420d1e195e2b76324
+       Text:    hi. so am i still coming over on what? sat?
+
+  [50] Conv-ID: 3f530ce23c6ecf8bcdf939ff7d1e5727
+       Autor:   23bffbccce4e395053495c68a5e15b68
+       Text:    hey u need to get aholdof me when u get on here
+
+
+================================================================================
+  LABEL: VERTRAUENSAUFBAU  (50 Beispiele)
+================================================================================
+  [01] Conv-ID: bf6b97232b110a097945451a7e85b6fc
+       Autor:   0b6b05c740a1bf50ca7f9a461598a3b9
+       Text:    i like talking to you
+
+  [02] Conv-ID: 11dca1e47335a4295e9db8e60136cce2
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    you are nice too
+
+  [03] Conv-ID: 4d8d6f069eed6fa2aa373a63527367d5
+       Autor:   3cf9477a8025ec6420d1e195e2b76324
+       Text:    no you are sweet.
+
+  [04] Conv-ID: f783cc1d999775669a9bc580b0c3f8b3
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    I understand you
+
+  [05] Conv-ID: 0c6dbc657eb2ecfbcf21e1ecf0c8ae69
+       Autor:   df00009d297a68f5a0f1967d9e509bb1
+       Text:    well you are beautiful
+
+  [06] Conv-ID: 35ea1be14b9e5998ff5007347226c54a
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    I like you
+
+  [07] Conv-ID: df8b02bee6bf3052c02004b19cbc2e9c
+       Autor:   2a77f862a19d8d47d21692543e90dee8
+       Text:    i love you
+
+  [08] Conv-ID: df8b02bee6bf3052c02004b19cbc2e9c
+       Autor:   2a77f862a19d8d47d21692543e90dee8
+       Text:    i love you to princess
+
+  [09] Conv-ID: df8b02bee6bf3052c02004b19cbc2e9c
+       Autor:   2a77f862a19d8d47d21692543e90dee8
+       Text:    i love you so much 2 baby
+
+  [10] Conv-ID: 79dcf8840349bb4f6a84a827693a0f7a
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    I enjoy talking to you
+
+  [11] Conv-ID: 37ee6716c5dff72b2a45fcbda8c8a9db
+       Autor:   609f7b8e566e8d514eecf112d3d3bc95
+       Text:    i love you so very much
+
+  [12] Conv-ID: 51df06e62b99700e35412c99629eabbf
+       Autor:   81383171ca9da4d245dea449027c3d09
+       Text:    because you are different, sounds like me, I was different and because of that I was always tormented ,
+
+  [13] Conv-ID: 0b09817ef0efddd0f336df39fb101a4e
+       Autor:   e4c7c376bbd07aeb4a59684a2b94a664
+       Text:    I love you too! :-*
+
+  [14] Conv-ID: 67f02d0d2c86d78235f6214949bdc09d
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    I Love You
+
+  [15] Conv-ID: aead48de3427cb10f1f2a2366026ff0e
+       Autor:   2a77f862a19d8d47d21692543e90dee8
+       Text:    i love you i miss you
+
+  [16] Conv-ID: 629a3f3a95f4d4253f0def5f6e4434f6
+       Autor:   2a751a42619e8a40bf5115cb62135a69
+       Text:    and i like chatting with you too
+
+  [17] Conv-ID: 2af7010e81713e3aa7e9954a75419553
+       Autor:   e4c7c376bbd07aeb4a59684a2b94a664
+       Text:    i love you livy
+
+  [18] Conv-ID: 2af7010e81713e3aa7e9954a75419553
+       Autor:   e4c7c376bbd07aeb4a59684a2b94a664
+       Text:    i love you so much
+
+  [19] Conv-ID: bd0332b67e1ff6a51eb07f9ab67c8f65
+       Autor:   2a77f862a19d8d47d21692543e90dee8
+       Text:    i love you so much princess please dont hate me
+
+  [20] Conv-ID: 252263ecb596d7e2eb2422b8ee2459b9
+       Autor:   2a77f862a19d8d47d21692543e90dee8
+       Text:    i love you to so much hun
+
+  [21] Conv-ID: 252263ecb596d7e2eb2422b8ee2459b9
+       Autor:   2a77f862a19d8d47d21692543e90dee8
+       Text:    i love you so much to promcess ariel
+
+  [22] Conv-ID: 57fac62074b0602711bf4ba54806f146
+       Autor:   850f47f5c88b660f1b096785ddc197a1
+       Text:    you are so cute
+
+  [23] Conv-ID: 57fac62074b0602711bf4ba54806f146
+       Autor:   850f47f5c88b660f1b096785ddc197a1
+       Text:    you are so sweet
+
+  [24] Conv-ID: 57fac62074b0602711bf4ba54806f146
+       Autor:   850f47f5c88b660f1b096785ddc197a1
+       Text:    I love you
+
+  [25] Conv-ID: ec2794e7b4c24fe9c958438910fcc165
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    i love you tho
+
+  [26] Conv-ID: fe7bdb47bf11ac2e64d7ed776b51cc8f
+       Autor:   b679fca2e3690b4d3c60815edf4e3ca5
+       Text:    anyway, that's the POINT. we get your pics up at that child-model site and people sign up cause they think you're really cool and they like the pics!
+
+  [27] Conv-ID: fe7bdb47bf11ac2e64d7ed776b51cc8f
+       Autor:   b679fca2e3690b4d3c60815edf4e3ca5
+       Text:    You know I adore you :x
+
+  [28] Conv-ID: fe7bdb47bf11ac2e64d7ed776b51cc8f
+       Autor:   b679fca2e3690b4d3c60815edf4e3ca5
+       Text:    oh yeah??? grrr....heeheehee you're so CUTE YOU DRIVE ME FUCKIN NUTSO!!!!!
+
+  [29] Conv-ID: 1c3b858b1611d585f45497fe8e03e6b0
+       Autor:   249f9824cc41247e0eae1462151f2a8b
+       Text:    you're so cute
+
+  [30] Conv-ID: db22c80bc8ba0b01d643c8b2ca28a486
+       Autor:   422af212405c94b69bbe0c7ca9c8477c
+       Text:    i love you and reallyi do miss u
+
+  [31] Conv-ID: bf33f6129cc2d575f2d62d0059da60b6
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    and you can trust me i would never hurt or scare you
+
+  [32] Conv-ID: 35fccae45015aa34acdeafa569f86f52
+       Autor:   e4c7c376bbd07aeb4a59684a2b94a664
+       Text:    i love you
+
+  [33] Conv-ID: 1ecca20ae6a1f86651df94b4966507f3
+       Autor:   bb0ecb9641f6d19a264e835f465d8a9e
+       Text:    you are so sweet
+
+  [34] Conv-ID: 26345c9fa232951974a9a03f9e6ad1dd
+       Autor:   89319407d854bb82113349ecf7ce3682
+       Text:    hey baby!! hope you slept well. Enjoy your day shopping w/mom!!! Oh well off to the shower then off to Birdsboro. Hope to see ya later today. I love you
+
+  [35] Conv-ID: eee2c3b9011b33ec01ae58c80f7c69f4
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    I like you
+
+  [36] Conv-ID: b07eff8fdb1c41d024138fd85a5f911f
+       Autor:   4851d3bd0d66d97ddb4437f0cb527a85
+       Text:    You are so special. Please never forget that. Yes, I honestly and completely believe that.
+
+  [37] Conv-ID: 2983c6ca198581aeea72679db388944f
+       Autor:   e4c7c376bbd07aeb4a59684a2b94a664
+       Text:    You are VERY cute!!
+
+  [38] Conv-ID: c614b83ec9983b95a0f46b596bb816b3
+       Autor:   2e265f9b8ee76269872d56d5c6c0335b
+       Text:    i like talking to you
+
+  [39] Conv-ID: 87086d4f21f30392b29a38fbee495f2f
+       Autor:   4cf8a879997585d68c7cdd49401b9e86
+       Text:    I like you
+
+  [40] Conv-ID: dfdef860af7196553076a1e4fa63a0ee
+       Autor:   f538a2a92145534b4b61893399479fcf
+       Text:    i do, you are amazing and i well want to kiss every inch of your body just want you to want it too
+
+  [41] Conv-ID: cab95a30c07dc4b6acaa5b3c63a79b33
+       Autor:   4851d3bd0d66d97ddb4437f0cb527a85
+       Text:    When you are gone I have time to think. You are so awesome! I am confident that waiting is the best thing for you. I am sure of it. You are special and worth a lot. Dont just give yourself to anyone. Especially, from the net. Take care of your heart and mind first and always. Trust me kindness can b
+
+  [42] Conv-ID: cab95a30c07dc4b6acaa5b3c63a79b33
+       Autor:   4851d3bd0d66d97ddb4437f0cb527a85
+       Text:    You are beautiful. Trust me on this. You are the kind of girl who is going to get more and more beautiful each and every day of life. The years you are experiencing can be tough and yes boring but take this time to dream. Follow your dreams. Life is too short not too. If I slept with you I would set
+
+  [43] Conv-ID: cab95a30c07dc4b6acaa5b3c63a79b33
+       Autor:   4851d3bd0d66d97ddb4437f0cb527a85
+       Text:    places. Keep yourself safe. I just realized that you are really a gift from God to me in a way. You would be an amazing daughter. I can just imagine talking to you about life. I have very little love in my life and I lose hope sometimes. You restore a lot of hope. Treat yourself like you are a rare 
+
+  [44] Conv-ID: b7e0d6ec92780e52ef405688310c86b2
+       Autor:   22b43adc75cd94c074892cee0b964eb8
+       Text:    plus you seem very nice and sweet
+
+  [45] Conv-ID: 03d73732c040277553a91b26d3f2ddb1
+       Autor:   54cad8b7d3538f5f60c1ffbc2058e945
+       Text:    nah,are you kidding? youre so cute!
+
+  [46] Conv-ID: ebb7a9df7bb7438924587372545302f5
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    I enjoy talking to you
+
+  [47] Conv-ID: 79ae7321e232089d9483e176fbc99042
+       Autor:   2a77f862a19d8d47d21692543e90dee8
+       Text:    me to hun i really like you to
+
+  [48] Conv-ID: feeecf337e3b25d7f9bb0ef135e3ad74
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    I understand you
+
+  [49] Conv-ID: feeecf337e3b25d7f9bb0ef135e3ad74
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    you are smart anywhere
+
+  [50] Conv-ID: 909806134381b2100bf303f8d9b3a38b
+       Autor:   4851d3bd0d66d97ddb4437f0cb527a85
+       Text:    dont you see you are special?
+
+
+================================================================================
+  LABEL: INFORMATIONSGEWINNUNG  (50 Beispiele)
+================================================================================
+  [01] Conv-ID: e0fabdc12cce220079d5bc02b0631fea
+       Autor:   bdaa4b675589e3b8f93f1655fed3b314
+       Text:    so what town do u live in
+
+  [02] Conv-ID: e0fabdc12cce220079d5bc02b0631fea
+       Autor:   bdaa4b675589e3b8f93f1655fed3b314
+       Text:    so do u know what town
+
+  [03] Conv-ID: 01956b8f45560d2d44d594f36a66f526
+       Autor:   af7a0adebf50023598764bdaf2080be4
+       Text:    When will you be home alone?
+
+  [04] Conv-ID: b4317d09463b812516078618db56c536
+       Autor:   4ab0a550ebb27f9a95e31ccbf0114850
+       Text:    your age?
+
+  [05] Conv-ID: 4d8d6f069eed6fa2aa373a63527367d5
+       Autor:   3cf9477a8025ec6420d1e195e2b76324
+       Text:    you are home alone?
+
+  [06] Conv-ID: 4d8d6f069eed6fa2aa373a63527367d5
+       Autor:   3cf9477a8025ec6420d1e195e2b76324
+       Text:    cool. so where are you parents?
+
+  [07] Conv-ID: 4fcc608ddd6c5f107707a1b3eab17b36
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    what grade are you in
+
+  [08] Conv-ID: 4fcc608ddd6c5f107707a1b3eab17b36
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    what grade are u in
+
+  [09] Conv-ID: 4fcc608ddd6c5f107707a1b3eab17b36
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    are you alone
+
+  [10] Conv-ID: 0c6dbc657eb2ecfbcf21e1ecf0c8ae69
+       Autor:   df00009d297a68f5a0f1967d9e509bb1
+       Text:    wheres mom
+
+  [11] Conv-ID: 87b922f5bb843a5038e702e55a3b5f1b
+       Autor:   5ab85183f8a646d56077048b35679525
+       Text:    I miss you too, where are you?? u never called me to my job! get online girl.. bye mami
+
+  [12] Conv-ID: a353face751f2e57f71de0304c180625
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    are you alone
+
+  [13] Conv-ID: a353face751f2e57f71de0304c180625
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    what school are you going to when you move
+
+  [14] Conv-ID: 8d517d58a223c8913f44af0e65eb1b05
+       Autor:   f91e272c9481c92c08505fffbe726053
+       Text:    whats your address
+
+  [15] Conv-ID: f6f7a580eddc7a9f62b889a4aeb8102e
+       Autor:   f538a2a92145534b4b61893399479fcf
+       Text:    your home alone aren't you
+
+  [16] Conv-ID: aaba3ee7a02c58f89db736620ae1c924
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    where are you at?
+
+  [17] Conv-ID: 769976e3056e3b48e7c84b03415b391f
+       Autor:   f538a2a92145534b4b61893399479fcf
+       Text:    whats your address i will mapquest it
+
+  [18] Conv-ID: 98c23dd579368bb0b31b6646bc21f807
+       Autor:   00aac10b39157377c79b7700b7b832bf
+       Text:    what city do you live in now/
+
+  [19] Conv-ID: 4eaa173dde98f33617c86d880db5bc3e
+       Autor:   9f1180d3743c2e880a36aaefbb0a80ef
+       Text:    1st what grade u in
+
+  [20] Conv-ID: b698cc603ecde3704c1bd83a08b48558
+       Autor:   ed4ece301c57d14e22b2212e5a7f25ca
+       Text:    what city u in
+
+  [21] Conv-ID: b698cc603ecde3704c1bd83a08b48558
+       Autor:   ed4ece301c57d14e22b2212e5a7f25ca
+       Text:    so where do you live
+
+  [22] Conv-ID: b698cc603ecde3704c1bd83a08b48558
+       Autor:   ed4ece301c57d14e22b2212e5a7f25ca
+       Text:    i wont i just wondered what city in michigan not your adress silly
+
+  [23] Conv-ID: 0063692c957229db0816e0f240d7fa0d
+       Autor:   18253a7ec92823c10255f80e57f88e74
+       Text:    but what school?
+
+  [24] Conv-ID: 90b15b65e0de4759a3b6cabc410307f6
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    so where do you live at
+
+  [25] Conv-ID: 7148c41248cf217443a6982f72358e39
+       Autor:   7dec33a7c4fc1d7295dea7cc5b966b5b
+       Text:    hello there can u talk ??? A / S / L please
+
+  [26] Conv-ID: 7148c41248cf217443a6982f72358e39
+       Autor:   7dec33a7c4fc1d7295dea7cc5b966b5b
+       Text:    21/m/cali so what city you from
+
+  [27] Conv-ID: 7148c41248cf217443a6982f72358e39
+       Autor:   7dec33a7c4fc1d7295dea7cc5b966b5b
+       Text:    so what city you live in
+
+  [28] Conv-ID: a7694e34de0726cecee6df7fd9cb78f9
+       Autor:   9536bdac0e1351f316701b9310236df0
+       Text:    So it's you and your mom only living there? lol How does she trust you to stay home alone? Thats awesome
+
+  [29] Conv-ID: 04dfdb4f4cf7b8a57e25e0e7d4ba0bff
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    where are you Saturday?
+
+  [30] Conv-ID: 57fac62074b0602711bf4ba54806f146
+       Autor:   850f47f5c88b660f1b096785ddc197a1
+       Text:    what's your address?
+
+  [31] Conv-ID: 57fac62074b0602711bf4ba54806f146
+       Autor:   850f47f5c88b660f1b096785ddc197a1
+       Text:    how tall are you again?
+
+  [32] Conv-ID: 8942cc7aded6626f679930c35937b028
+       Autor:   f069dbec9ab3e090972d432db279e3eb
+       Text:    r u home alone
+
+  [33] Conv-ID: f24d81bcb081d3fb1eb9b1b8fd1e58ca
+       Autor:   4ab0a550ebb27f9a95e31ccbf0114850
+       Text:    home alone
+
+  [34] Conv-ID: 60dc4e1c9be0e7eb3ef0f66821976b41
+       Autor:   1eb17bd9642e93fa84969b71bf387a1b
+       Text:    where you from
+
+  [35] Conv-ID: e28a8e1a19b9f02483d4cd292b60698e
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    tell em where are you living. Perhaps I can pick you up
+
+  [36] Conv-ID: 167c3cb8365ca9fc01f7aed3d8efaaa6
+       Autor:   1eb17bd9642e93fa84969b71bf387a1b
+       Text:    where you from again
+
+  [37] Conv-ID: 0b3185b09b832231aded5e04691b803c
+       Autor:   9f1180d3743c2e880a36aaefbb0a80ef
+       Text:    what part of me
+
+  [38] Conv-ID: e90053068a4a53bffb20fb25f474c253
+       Autor:   df00009d297a68f5a0f1967d9e509bb1
+       Text:    wheres mom?
+
+  [39] Conv-ID: 39ac5b32671a703929b929da206aea8d
+       Autor:   8cd850ea4215ee7c4b94b6bcc0bae593
+       Text:    are you alone now?
+
+  [40] Conv-ID: 20f9479f1ed94a480166b12cd86e559d
+       Autor:   81383171ca9da4d245dea449027c3d09
+       Text:    wow , how tall are you?
+
+  [41] Conv-ID: 163d06570c03365011ee2c6d4e04422a
+       Autor:   5778ac8dcffe9bbacf3c0415fdb362d6
+       Text:    where are you at my cell cut you off
+
+  [42] Conv-ID: 1eb6e6dc47f61de3f6f7b4f2641f9102
+       Autor:   872ba632599e4f3ff3a4921da8ae3da8
+       Text:    yes? you ok with the age?
+
+  [43] Conv-ID: feeecf337e3b25d7f9bb0ef135e3ad74
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    where are you at?
+
+  [44] Conv-ID: dff177fe4d8efc08e9c018fb4a6fd1d1
+       Autor:   9b227243286fca8a81bd41ce8551d662
+       Text:    Where are you recently
+
+  [45] Conv-ID: 7dc59c1557805b5a6d4ef276b8303300
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    are you alone
+
+  [46] Conv-ID: 7f3dbb288dd6d3e294bd27b72eb9e5e5
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    where are you at?
+
+  [47] Conv-ID: 38da488791abeedb17356f445567e5bc
+       Autor:   e1b76a292497409f9deadbe07d1f7e6d
+       Text:    what city u in
+
+  [48] Conv-ID: 38da488791abeedb17356f445567e5bc
+       Autor:   e1b76a292497409f9deadbe07d1f7e6d
+       Text:    what city in ky
+
+  [49] Conv-ID: 95539910a8fe6035ecdded42181c5ab3
+       Autor:   0526eb9cfcee11c0036f3fa6d11158d5
+       Text:    ok so what city in ky
+
+  [50] Conv-ID: 95539910a8fe6035ecdded42181c5ab3
+       Autor:   0526eb9cfcee11c0036f3fa6d11158d5
+       Text:    what city u live in ky i just see how far that is
+
+
+================================================================================
+  LABEL: GEHEIMHALTUNG/ISOLATION  (26 Beispiele)
+================================================================================
+  [01] Conv-ID: 4fcc608ddd6c5f107707a1b3eab17b36
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    our secret
+
+  [02] Conv-ID: 6d7e4a095821a774480ca3a222b561be
+       Autor:   d033ef02538095a94f42313f519bed88
+       Text:    yea...keep between us
+
+  [03] Conv-ID: a353face751f2e57f71de0304c180625
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    our secret
+
+  [04] Conv-ID: 629a3f3a95f4d4253f0def5f6e4434f6
+       Autor:   2a751a42619e8a40bf5115cb62135a69
+       Text:    and hopefully no one will see you
+
+  [05] Conv-ID: 3520eb14eef719c1efd12a4d118297bb
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    o ok shhhhhhhhhhhh
+
+  [06] Conv-ID: 57fac62074b0602711bf4ba54806f146
+       Autor:   850f47f5c88b660f1b096785ddc197a1
+       Text:    no one will see you go in my room will they?
+
+  [07] Conv-ID: 3c64110fa471aea3a30041a8439b9930
+       Autor:   7dec33a7c4fc1d7295dea7cc5b966b5b
+       Text:    cool can anyone see us if where in it
+
+  [08] Conv-ID: 3a4e83ca43b4bfbb271718c0396f570e
+       Autor:   d43e87eedeb586fe9431568921e2fdf7
+       Text:    ah... ok.. no prob. but you can't tell anyone though...
+
+  [09] Conv-ID: 3a4e83ca43b4bfbb271718c0396f570e
+       Autor:   d43e87eedeb586fe9431568921e2fdf7
+       Text:    you can't tell anyone.
+
+  [10] Conv-ID: de106606c502af86fa2039e6ae709bd0
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    coool and i am there shhh
+
+  [11] Conv-ID: 89896be9c841745b0cd319d78abd0d68
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    To keep a shh
+
+  [12] Conv-ID: 46eae9d8c6e3a2e93309ff8128f6b4ac
+       Autor:   3cf9477a8025ec6420d1e195e2b76324
+       Text:    so we still hanging out when your parents are gone? :D
+
+  [13] Conv-ID: a2ae7876d8e6500f3e82a25abdca8023
+       Autor:   5f325f9eef9f7e6da2b3cd5717b416de
+       Text:    dont tell your friends
+
+  [14] Conv-ID: d8fb5205e5fdc6748f9fabd706fef980
+       Autor:   0b6b05c740a1bf50ca7f9a461598a3b9
+       Text:    so just dont tell anyone anything
+
+  [15] Conv-ID: 9a2783eec88c027ef709344633768875
+       Autor:   5f325f9eef9f7e6da2b3cd5717b416de
+       Text:    u still want to see the pic or do u want to forget about them
+
+  [16] Conv-ID: 3c689a8b53787681208eb16e5618775f
+       Autor:   dfcb21b491de12ccfa7703216e646d3d
+       Text:    keep it between us
+
+  [17] Conv-ID: b23c24ada0406b400e050eb8acfc3dd7
+       Autor:   df00009d297a68f5a0f1967d9e509bb1
+       Text:    oh i am still a secret right
+
+  [18] Conv-ID: 378328e3069cbd7cf6b4b7d9c09325e3
+       Autor:   1290ea419856093edf96b1263cb1ca1e
+       Text:    till then please keep quiet at home, behave like a very good girl with mom so that u get a chance to go to dads house
+
+  [19] Conv-ID: 7050ce736641c5ac88f5b623b4ad90b4
+       Autor:   6283fab0062e2eb309261acf647abd98
+       Text:    i want it to still be a secret
+
+  [20] Conv-ID: 1c671f7d40782679f8e33051639ce67b
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    i'll get naked but you can't tell anyone
+
+  [21] Conv-ID: 8623fb8f21f308e76550dce8f14f5a01
+       Autor:   aa98bc7761802289d80ec7096028251d
+       Text:    mums the word
+
+  [22] Conv-ID: 39409cadacd023477d7c715e3177427f
+       Autor:   39bd8b11509b5ddc5948b5b77f034ea1
+       Text:    yeah not good to drink too much but a secret is that if its good stuff and not cheap shit then you wont feel nearly as bad
+
+  [23] Conv-ID: 39409cadacd023477d7c715e3177427f
+       Autor:   39bd8b11509b5ddc5948b5b77f034ea1
+       Text:    you know you cant tell anyone about me right
+
+  [24] Conv-ID: 83d02741da50d8a84485cb8d0cb39b88
+       Autor:   89319407d854bb82113349ecf7ce3682
+       Text:    no one will know
+
+  [25] Conv-ID: aa1b227d708b3caf56616e41a5d02db7
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    Ok just gotta make sure we stay a secret
+
+  [26] Conv-ID: e40604b3f8c8f7d61fbdbb2f42b67917
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    But well keep it a secret ok
+
+
+================================================================================
+  LABEL: SEXUALISIERUNG  (50 Beispiele)
+================================================================================
+  [01] Conv-ID: fc77b9ed8d13697e8deea79de0b4df23
+       Autor:   6f35a1f69fd4ae82056e4bc6a8a84575
+       Text:    because i do not for sex or anything like that i just wanna see u i feel if i dont then i might lose u or something i know that sounds stupid
+
+  [02] Conv-ID: e0fabdc12cce220079d5bc02b0631fea
+       Autor:   bdaa4b675589e3b8f93f1655fed3b314
+       Text:    eat your pussy
+
+  [03] Conv-ID: e0fabdc12cce220079d5bc02b0631fea
+       Autor:   bdaa4b675589e3b8f93f1655fed3b314
+       Text:    make u cum
+
+  [04] Conv-ID: bf6b97232b110a097945451a7e85b6fc
+       Autor:   0b6b05c740a1bf50ca7f9a461598a3b9
+       Text:    gonna dress sexy for me?
+
+  [05] Conv-ID: 63426520f881d3e9bc5eb821ad3a7020
+       Autor:   fac3a2081264f1dbb943eaf7165d8fc3
+       Text:    sexy
+
+  [06] Conv-ID: 63426520f881d3e9bc5eb821ad3a7020
+       Autor:   fac3a2081264f1dbb943eaf7165d8fc3
+       Text:    ok sexy u win
+
+  [07] Conv-ID: 394b0d1ff993fc2e92edfb2f71009e9a
+       Autor:   6d6c830b141a9716d2878f5126dc4516
+       Text:    i mean what more could i ask for this weekend weed and sex for 2 days
+
+  [08] Conv-ID: 01956b8f45560d2d44d594f36a66f526
+       Autor:   af7a0adebf50023598764bdaf2080be4
+       Text:    Hey sexy.
+
+  [09] Conv-ID: 01956b8f45560d2d44d594f36a66f526
+       Autor:   af7a0adebf50023598764bdaf2080be4
+       Text:    Well I would like to lick your nipples and your pussy.
+
+  [10] Conv-ID: 8eb18fd7cb60787289c64292b385ce4a
+       Autor:   ed4ece301c57d14e22b2212e5a7f25ca
+       Text:    id rather slam my dick in a door
+
+  [11] Conv-ID: af9923a77e580a5196f01ab0910fed65
+       Autor:   fac3a2081264f1dbb943eaf7165d8fc3
+       Text:    hey sexy
+
+  [12] Conv-ID: 9cbcd8fc7cd7a02246561ef7ee12d631
+       Autor:   7fc0a10ac4f945ebf4004b258179ad1c
+       Text:    i see you horny about sat
+
+  [13] Conv-ID: 9cbcd8fc7cd7a02246561ef7ee12d631
+       Autor:   7fc0a10ac4f945ebf4004b258179ad1c
+       Text:    how bad you want my cock
+
+  [14] Conv-ID: 9cbcd8fc7cd7a02246561ef7ee12d631
+       Autor:   7fc0a10ac4f945ebf4004b258179ad1c
+       Text:    you want my cock
+
+  [15] Conv-ID: 77de2082be0ce90c828fb708a4ae6127
+       Autor:   fac3a2081264f1dbb943eaf7165d8fc3
+       Text:    i just see the first page with your sexy photo on it
+
+  [16] Conv-ID: 11dca1e47335a4295e9db8e60136cce2
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    waiting for you to tell me anything sexy
+
+  [17] Conv-ID: 11dca1e47335a4295e9db8e60136cce2
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    I like your ass better than hers
+
+  [18] Conv-ID: 3401617be3e7040f76a7dba0aca118f5
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    hey sexy
+
+  [19] Conv-ID: 3401617be3e7040f76a7dba0aca118f5
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    a naked party lol jk
+
+  [20] Conv-ID: 3401617be3e7040f76a7dba0aca118f5
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    no am saying a naked party with two persons silly lol
+
+  [21] Conv-ID: 4f32f4457a67a7bfed1d8e76bf14d69b
+       Autor:   fac3a2081264f1dbb943eaf7165d8fc3
+       Text:    hey sexy lady who u sleep good i hope>:D<:-*
+
+  [22] Conv-ID: fb694a2db2dc6a2f63e46c70912aceca
+       Autor:   201a9319a4df100cb91e81644345f3b2
+       Text:    do u like looking at the pic of my cock?
+
+  [23] Conv-ID: fb694a2db2dc6a2f63e46c70912aceca
+       Autor:   201a9319a4df100cb91e81644345f3b2
+       Text:    does the pic of my cock make u horny?
+
+  [24] Conv-ID: 4fcc608ddd6c5f107707a1b3eab17b36
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    ever seen a naked man
+
+  [25] Conv-ID: 4fcc608ddd6c5f107707a1b3eab17b36
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    and i was naked
+
+  [26] Conv-ID: c326397fbbdd02ff5b1bb4b55a84ef98
+       Autor:   fac3a2081264f1dbb943eaf7165d8fc3
+       Text:    your too sexy
+
+  [27] Conv-ID: c326397fbbdd02ff5b1bb4b55a84ef98
+       Autor:   fac3a2081264f1dbb943eaf7165d8fc3
+       Text:    in your sexy nighty and your comfy out fits
+
+  [28] Conv-ID: c326397fbbdd02ff5b1bb4b55a84ef98
+       Autor:   fac3a2081264f1dbb943eaf7165d8fc3
+       Text:    sweet dreams sexy one
+
+  [29] Conv-ID: 7602e91a47981a5d192c5a0276a4e7e2
+       Autor:   af7a0adebf50023598764bdaf2080be4
+       Text:    Good night sexy
+
+  [30] Conv-ID: f783cc1d999775669a9bc580b0c3f8b3
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    I told you. Suck his dick or fuck him. You sare better than the other guy
+
+  [31] Conv-ID: f783cc1d999775669a9bc580b0c3f8b3
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    suck his dick at the first opportunity you have. You will see what happens after it
+
+  [32] Conv-ID: 0c6dbc657eb2ecfbcf21e1ecf0c8ae69
+       Autor:   df00009d297a68f5a0f1967d9e509bb1
+       Text:    no i am horny 4 u
+
+  [33] Conv-ID: 0c6dbc657eb2ecfbcf21e1ecf0c8ae69
+       Autor:   df00009d297a68f5a0f1967d9e509bb1
+       Text:    Well as far as teaching goes hmmm...will you be a good girl or will you be a naughty girl
+
+  [34] Conv-ID: 0c6dbc657eb2ecfbcf21e1ecf0c8ae69
+       Autor:   df00009d297a68f5a0f1967d9e509bb1
+       Text:    Well Sex 101 is a very important subject
+
+  [35] Conv-ID: c1b82d8b8bf77a587b1060f420417c7c
+       Autor:   fac3a2081264f1dbb943eaf7165d8fc3
+       Text:    hey sexy
+
+  [36] Conv-ID: 300ea7aa78e26f7d74293dd7cf368aa6
+       Autor:   d18fb2dc834414a71aace67bee91c432
+       Text:    lol ur pic is making me kind of horny :(
+
+  [37] Conv-ID: 300ea7aa78e26f7d74293dd7cf368aa6
+       Autor:   d18fb2dc834414a71aace67bee91c432
+       Text:    lol i'm horny now lol
+
+  [38] Conv-ID: 300ea7aa78e26f7d74293dd7cf368aa6
+       Autor:   d18fb2dc834414a71aace67bee91c432
+       Text:    so are u horny or no?
+
+  [39] Conv-ID: 086f808b540617b30eb2be8053a8172e
+       Autor:   201a9319a4df100cb91e81644345f3b2
+       Text:    hey sexy
+
+  [40] Conv-ID: 086f808b540617b30eb2be8053a8172e
+       Autor:   201a9319a4df100cb91e81644345f3b2
+       Text:    im really horny right now
+
+  [41] Conv-ID: 086f808b540617b30eb2be8053a8172e
+       Autor:   201a9319a4df100cb91e81644345f3b2
+       Text:    im strokin my cock right now cause im so horny
+
+  [42] Conv-ID: 35ea1be14b9e5998ff5007347226c54a
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    my dick?
+
+  [43] Conv-ID: 35ea1be14b9e5998ff5007347226c54a
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    Can we fuck in the house?
+
+  [44] Conv-ID: 35ea1be14b9e5998ff5007347226c54a
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    want to fuck me?
+
+  [45] Conv-ID: 6f21020ef517a4bd8823a719afdb9972
+       Autor:   a03edc2f70bbebc73ef3ba3f06968360
+       Text:    Sorry cant have phone turned on the plane.
+
+  [46] Conv-ID: 51615bc0e37fa36f373cbe21f52507f0
+       Autor:   bfa317c5529e65c5897c4cd4871e35d0
+       Text:    lol bye sexy
+
+  [47] Conv-ID: 6474a75ade9eff0ce82fd77a91eff9ca
+       Autor:   03957f443c7790f9642db14bbc59df11
+       Text:    Oh, can ask a couple a sex related questions?
+
+  [48] Conv-ID: 6474a75ade9eff0ce82fd77a91eff9ca
+       Autor:   03957f443c7790f9642db14bbc59df11
+       Text:    How many times did you have sex? And do you like a certain position?
+
+  [49] Conv-ID: df8b02bee6bf3052c02004b19cbc2e9c
+       Autor:   2a77f862a19d8d47d21692543e90dee8
+       Text:    mmm sounds really sexy
+
+  [50] Conv-ID: 531c7a865efa9ec62dca06ba52c00bb0
+       Autor:   503343ecf680e0899a3863cc8bf2b9dc
+       Text:    hey sexy
+
+
+================================================================================
+  LABEL: KONTROLLE/NOETIGUNG  (31 Beispiele)
+================================================================================
+  [01] Conv-ID: cc21a4030e5be0428f302d96452a2fbd
+       Autor:   9024719626a23e08ec06430a8a36cb72
+       Text:    do it now
+
+  [02] Conv-ID: 2af7010e81713e3aa7e9954a75419553
+       Autor:   e4c7c376bbd07aeb4a59684a2b94a664
+       Text:    dont make me feel bad
+
+  [03] Conv-ID: 5fb725523d6da2b3f584f644e33ed0d1
+       Autor:   6283fab0062e2eb309261acf647abd98
+       Text:    im not playing games i want to talk to you but seem
+
+  [04] Conv-ID: 2c9f8c402241ac6cbc6ea7e6268a29da
+       Autor:   c420f4c2451ed50149332783dd90db59
+       Text:    if i told you to do something would you?
+
+  [05] Conv-ID: db22c80bc8ba0b01d643c8b2ca28a486
+       Autor:   422af212405c94b69bbe0c7ca9c8477c
+       Text:    dont make me sad
+
+  [06] Conv-ID: 5378101164b8e4cf24eb12d6e14eb6d0
+       Autor:   053364a8ce3df76dadd5fe75fb056f72
+       Text:    hope to hear from you pls dont be mad let me fix my car and ill come there when you want me too really no jokes or playin you im serious i hope you r too pls let me know pls.
+
+  [07] Conv-ID: 4337375e6a95b7212cda080e175118d9
+       Autor:   e4c7c376bbd07aeb4a59684a2b94a664
+       Text:    see? i told you so
+
+  [08] Conv-ID: 573c2a2bce882855bedb1d16057e272c
+       Autor:   6e9a4b8f988171cb6ccc88406fef2426
+       Text:    i say how about we do this now?
+
+  [09] Conv-ID: 84986ef9c4178f81ad74f7c6cf9a53d2
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    i told you to go
+
+  [10] Conv-ID: edacbc3605b449e308e1130d3f34e8f5
+       Autor:   2a77f862a19d8d47d21692543e90dee8
+       Text:    i told you your gonna be my princess and il ltreat you like one
+
+  [11] Conv-ID: c234482c6c491426e974f0db691c3cf5
+       Autor:   2918b2f2b8fe0d6f185ec6a2dd79c632
+       Text:    well i told you that i am going to be out of town those dates......but i thought we also agreed that we could hang out on days she went to work and stuff
+
+  [12] Conv-ID: 23985b7ce37b9ad8fcdfd5b5337e92d4
+       Autor:   d6af75e4a889d4c27383ab51b6fd07af
+       Text:    if we cant do it now at your place then lets forget about it ok
+
+  [13] Conv-ID: 28f31d47045363e2a630d289bf241ee0
+       Autor:   395b6188da0dcf2770643a7d79576aa5
+       Text:    so I told you that my penis is not as big as that picture I showed you before right?
+
+  [14] Conv-ID: 92b45899d62dbf4229cfc39b31cd7028
+       Autor:   f538a2a92145534b4b61893399479fcf
+       Text:    what if i told you that im actually 29
+
+  [15] Conv-ID: a2ae7876d8e6500f3e82a25abdca8023
+       Autor:   5f325f9eef9f7e6da2b3cd5717b416de
+       Text:    ill make sure there is no cop first then ill park a little up the street from it ok
+
+  [16] Conv-ID: f9647f68d20ef8425f19cece8b31a7b7
+       Autor:   6fa8da85e92704810cb756bfb3fd0441
+       Text:    i'll make sure nothing will go wrong
+
+  [17] Conv-ID: 97a305a906611d4edc9acd4747d9e6d2
+       Autor:   6283fab0062e2eb309261acf647abd98
+       Text:    no i was waiting to see if u would do it or not
+
+  [18] Conv-ID: c05d5c99087e67891d6504f8dd285ec0
+       Autor:   23bffbccce4e395053495c68a5e15b68
+       Text:    I told you I was coming and I did
+
+  [19] Conv-ID: c05d5c99087e67891d6504f8dd285ec0
+       Autor:   23bffbccce4e395053495c68a5e15b68
+       Text:    and I told you I would get you a new one or give you money for one
+
+  [20] Conv-ID: 39409cadacd023477d7c715e3177427f
+       Autor:   39bd8b11509b5ddc5948b5b77f034ea1
+       Text:    get what i told you
+
+  [21] Conv-ID: 1a825cb990abb181fd72c6d13bb6dfae
+       Autor:   18925613101337413b9752e383f46174
+       Text:    i told you
+
+  [22] Conv-ID: ab9148b5c130f9c416fb33e02196a59a
+       Autor:   f91e272c9481c92c08505fffbe726053
+       Text:    ya but you are soposed to do what i say remeber?:)
+
+  [23] Conv-ID: ab9148b5c130f9c416fb33e02196a59a
+       Autor:   f91e272c9481c92c08505fffbe726053
+       Text:    im the man and you need to do what i ask:)
+
+  [24] Conv-ID: a7851341719f38509c15ea3b13d58183
+       Autor:   e04c2ebb13344e6da4e4a280d36e8425
+       Text:    yeah and i would have to meet you in person before we made any decision to do it or not
+
+  [25] Conv-ID: 1ac8120656883a70db1267d8dc31710d
+       Autor:   94b4cd6904fd60f7ac5d3bdbe98aeb62
+       Text:    yeah i'll make sure you don't
+
+  [26] Conv-ID: 6f0419a43daf99d643d2ee2619d3ceee
+       Autor:   ca5496597b7151b9c2414c16c4ef5422
+       Text:    i told you
+
+  [27] Conv-ID: 8fbe3cccf13f6e1ae99f57b44727b3fa
+       Autor:   395b6188da0dcf2770643a7d79576aa5
+       Text:    I've been outta jail for 3 years and I was in jail because I know how bad it is to do drugs like I told you never to do
+
+  [28] Conv-ID: 83fd2371933d81efd5d03237fcaed045
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    i told you I lost everything in mmy computer. Send me your picture agai, please
+
+  [29] Conv-ID: cc5e20950135f4048bfe6c68ac42118d
+       Autor:   f5e20f1c82066b5d6801d889d146c4f9
+       Text:    I told you why
+
+  [30] Conv-ID: 83d02741da50d8a84485cb8d0cb39b88
+       Autor:   89319407d854bb82113349ecf7ce3682
+       Text:    u know im serious bout this right now
+
+  [31] Conv-ID: 9d3a3791e48a8a6daac3e768b7c384ed
+       Autor:   80706012f8f9f1175c8e37c306394727
+       Text:    i told you i would be here and give you my decision and i am
+
+
+================================================================================
+  LABEL: OFFLINE-ESKALATION  (50 Beispiele)
+================================================================================
+  [01] Conv-ID: e0fabdc12cce220079d5bc02b0631fea
+       Autor:   bdaa4b675589e3b8f93f1655fed3b314
+       Text:    meet me
+
+  [02] Conv-ID: e0fabdc12cce220079d5bc02b0631fea
+       Autor:   bdaa4b675589e3b8f93f1655fed3b314
+       Text:    theen give me your address
+
+  [03] Conv-ID: e0fabdc12cce220079d5bc02b0631fea
+       Autor:   bdaa4b675589e3b8f93f1655fed3b314
+       Text:    your address
+
+  [04] Conv-ID: 9563e3b1a52630a00486a03402947ae9
+       Autor:   0cac6dfd241c5efe4ca07417575e582f
+       Text:    so will you just come out and get in the truck when i get there or do you wanna meet up the road a little?
+
+  [05] Conv-ID: e2f4415bae319b53869acc488d16c656
+       Autor:   13ff9f88ad6e1242f30cb4c7d4a36ed7
+       Text:    wait til u see me in person,,,,,,,,,,thats for real
+
+  [06] Conv-ID: 394b0d1ff993fc2e92edfb2f71009e9a
+       Autor:   6d6c830b141a9716d2878f5126dc4516
+       Text:    call me when u get out
+
+  [07] Conv-ID: 9cbcd8fc7cd7a02246561ef7ee12d631
+       Autor:   7fc0a10ac4f945ebf4004b258179ad1c
+       Text:    can you give me your address
+
+  [08] Conv-ID: 9cbcd8fc7cd7a02246561ef7ee12d631
+       Autor:   7fc0a10ac4f945ebf4004b258179ad1c
+       Text:    i need your address can i get it plz
+
+  [09] Conv-ID: 9cbcd8fc7cd7a02246561ef7ee12d631
+       Autor:   7fc0a10ac4f945ebf4004b258179ad1c
+       Text:    where do you want to meet sat
+
+  [10] Conv-ID: d91fede93ee7ae97e986f4165ac945f5
+       Autor:   4ab0a550ebb27f9a95e31ccbf0114850
+       Text:    im suppose to come over sat huh?
+
+  [11] Conv-ID: d91fede93ee7ae97e986f4165ac945f5
+       Autor:   4ab0a550ebb27f9a95e31ccbf0114850
+       Text:    can i come over sun?
+
+  [12] Conv-ID: 4d8d6f069eed6fa2aa373a63527367d5
+       Autor:   3cf9477a8025ec6420d1e195e2b76324
+       Text:    do your friends come over and hang out?
+
+  [13] Conv-ID: 4d8d6f069eed6fa2aa373a63527367d5
+       Autor:   3cf9477a8025ec6420d1e195e2b76324
+       Text:    well if i come over, it will be fun.
+
+  [14] Conv-ID: 4d8d6f069eed6fa2aa373a63527367d5
+       Autor:   3cf9477a8025ec6420d1e195e2b76324
+       Text:    well when you have time, and if you want, I would be glad to come over and watch a movie and cuddle with you.
+
+  [15] Conv-ID: d0d1ddf8f46982053911522c825eaa9c
+       Autor:   6f35a1f69fd4ae82056e4bc6a8a84575
+       Text:    well u might not when u meet me?
+
+  [16] Conv-ID: 0e5a20dc265f06d0429a14a828b8fb4b
+       Autor:   9f1180d3743c2e880a36aaefbb0a80ef
+       Text:    so u dont want me come over on that weekend
+
+  [17] Conv-ID: 35ea1be14b9e5998ff5007347226c54a
+       Autor:   0599cd3f7fc15849844468b0702ff593
+       Text:    do you still want to meet me?
+
+  [18] Conv-ID: 6474a75ade9eff0ce82fd77a91eff9ca
+       Autor:   03957f443c7790f9642db14bbc59df11
+       Text:    Ready to give me the address so I can come over tomorrow?
+
+  [19] Conv-ID: 531c7a865efa9ec62dca06ba52c00bb0
+       Autor:   503343ecf680e0899a3863cc8bf2b9dc
+       Text:    and u want me to come over one of these days?
+
+  [20] Conv-ID: db505fdabc242fb87d0b64b233109683
+       Autor:   7fc0a10ac4f945ebf4004b258179ad1c
+       Text:    can i get your address
+
+  [21] Conv-ID: 6d7e4a095821a774480ca3a222b561be
+       Autor:   d033ef02538095a94f42313f519bed88
+       Text:    call me when u r ready...it's about 5min from hotel to royroger
+
+  [22] Conv-ID: 6d7e4a095821a774480ca3a222b561be
+       Autor:   d033ef02538095a94f42313f519bed88
+       Text:    call me when u r ready in the mornin
+
+  [23] Conv-ID: 256b0369492a19e4d9e66f582ebc33bf
+       Autor:   23bffbccce4e395053495c68a5e15b68
+       Text:    here is my number again 785 577 0837.....I need to get back to work so call me when u get the phone....I better hear from you if u want to see me tomorrow
+
+  [24] Conv-ID: 242718491d73a1e67e153c6e305700ad
+       Autor:   81383171ca9da4d245dea449027c3d09
+       Text:    in person
+
+  [25] Conv-ID: cf6cafbf41d2bd9b32ca79f8d7a0c2d2
+       Autor:   6f35a1f69fd4ae82056e4bc6a8a84575
+       Text:    yea and u know the song she made call me when ur sober? that was about him because he went to rehabe and then when he got out he wrote the song fake it about her lol
+
+  [26] Conv-ID: db7833792cdb9ecb4486dfae5f15ea09
+       Autor:   13ff9f88ad6e1242f30cb4c7d4a36ed7
+       Text:    its ok i can wait to see it in person
+
+  [27] Conv-ID: b55a5de9c419f52ed20a0f0312981071
+       Autor:   395b6188da0dcf2770643a7d79576aa5
+       Text:    don't worry it'll get hard for you in person too
+
+  [28] Conv-ID: 8d517d58a223c8913f44af0e65eb1b05
+       Autor:   f91e272c9481c92c08505fffbe726053
+       Text:    kust when i get there ill im you and just go meet me at the door ok
+
+  [29] Conv-ID: 67f02d0d2c86d78235f6214949bdc09d
+       Autor:   c62283536cf6261e5ffbcb323c8a2571
+       Text:    yes but why did it come over as restricted
+
+  [30] Conv-ID: d207feba370e24af0ba82a53f8c4ef89
+       Autor:   39bd8b11509b5ddc5948b5b77f034ea1
+       Text:    i would send you a webcam but i dont know if it would get there before the week is up
+
+  [31] Conv-ID: 26903c791f7a4392bb9e0ef02d5bc7e6
+       Autor:   4851d3bd0d66d97ddb4437f0cb527a85
+       Text:    and what is your address so I can mapquest it
+
+  [32] Conv-ID: 79c44e14e8d4ad1591cb1095803d391d
+       Autor:   4ab0a550ebb27f9a95e31ccbf0114850
+       Text:    but if i dont go i can come over really early
+
+  [33] Conv-ID: 3ace6db21d61ae35ac8f8c6cd6d7bab4
+       Autor:   2918b2f2b8fe0d6f185ec6a2dd79c632
+       Text:    what time u wanna meet online tomorrow?
+
+  [34] Conv-ID: 629a3f3a95f4d4253f0def5f6e4434f6
+       Autor:   2a751a42619e8a40bf5115cb62135a69
+       Text:    in person
+
+  [35] Conv-ID: 629a3f3a95f4d4253f0def5f6e4434f6
+       Autor:   2a751a42619e8a40bf5115cb62135a69
+       Text:    in person
+
+  [36] Conv-ID: 98c23dd579368bb0b31b6646bc21f807
+       Autor:   00aac10b39157377c79b7700b7b832bf
+       Text:    whats wrong with being grounded if you have no friends to hangout with where you live now?
+
+  [37] Conv-ID: 98c23dd579368bb0b31b6646bc21f807
+       Autor:   00aac10b39157377c79b7700b7b832bf
+       Text:    from my house, to the center of long beach, its 56 miles
+
+  [38] Conv-ID: c6946993ad122e257091ba89d692d8dd
+       Autor:   872ba632599e4f3ff3a4921da8ae3da8
+       Text:    but i dont know your number you never gave it to me 1e8c4b4c39afa6bae0f7aba5f3dce88d
+
+  [39] Conv-ID: c6946993ad122e257091ba89d692d8dd
+       Autor:   872ba632599e4f3ff3a4921da8ae3da8
+       Text:    im here i checked other phone and your number was not on display
+
+  [40] Conv-ID: c6946993ad122e257091ba89d692d8dd
+       Autor:   872ba632599e4f3ff3a4921da8ae3da8
+       Text:    your address is ?
+
+  [41] Conv-ID: df1ce478186630df18d7018dd4a42432
+       Autor:   f1c7705309a41293e04791e994d4b7b3
+       Text:    do u still want to meet me?
+
+  [42] Conv-ID: df1ce478186630df18d7018dd4a42432
+       Autor:   f1c7705309a41293e04791e994d4b7b3
+       Text:    want me to come over?
+
+  [43] Conv-ID: 337e890f15b46e3b845c0dc6d82652e9
+       Autor:   13ff9f88ad6e1242f30cb4c7d4a36ed7
+       Text:    call me when your done kk i keep missing u
+
+  [44] Conv-ID: 0063692c957229db0816e0f240d7fa0d
+       Autor:   18253a7ec92823c10255f80e57f88e74
+       Text:    Brendas cool about things with him.She lets him come over anytime
+
+  [45] Conv-ID: 0063692c957229db0816e0f240d7fa0d
+       Autor:   18253a7ec92823c10255f80e57f88e74
+       Text:    you see once on probation someone came to my house every now and then to check things out and to make sure I wasnt growing pot again
+
+  [46] Conv-ID: 0063692c957229db0816e0f240d7fa0d
+       Autor:   18253a7ec92823c10255f80e57f88e74
+       Text:    were is it you are going to want me to pick you up at on friday?
+
+  [47] Conv-ID: ccc2f2f16c5aafb38e096f331d0e7801
+       Autor:   90dfa20487af303d92fe68ec15eb1e3e
+       Text:    so i'll leave my house like around 12
+
+  [48] Conv-ID: 82d1514b6e415597011ecc17df05d365
+       Autor:   d090448efc59f5f5b3b5c2875d070a3a
+       Text:    here in my apartment the prob is my coleages r there
+
+  [49] Conv-ID: 82d1514b6e415597011ecc17df05d365
+       Autor:   d090448efc59f5f5b3b5c2875d070a3a
+       Text:    as u come to my apartment i am asking u.
+
+  [50] Conv-ID: 82d1514b6e415597011ecc17df05d365
+       Autor:   d090448efc59f5f5b3b5c2875d070a3a
+       Text:    suppose if he asks whom do u want to meet?
+
+                                                                                                                                                                                                                                                                                                                 
+
+Ergebnisse gespeichert: C:\Users\mugur\Bachelorarbeit\annotate_results_v2.txt
+
+Labels mit weniger als 50 Beispielen:
+  GEHEIMHALTUNG/ISOLATION: 26 Beispiele
+  KONTROLLE/NOETIGUNG: 31 Beispiele

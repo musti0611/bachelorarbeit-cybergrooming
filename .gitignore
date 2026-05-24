@@ -1,0 +1,25 @@
+# PAN12 Rohdaten (groß und sensibel)
+data/
+
+# Bereits eigenständige Git-Repos
+eSPD-lab/
+eSPD-datasets/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Modell-Checkpoints
+*.pt
+*.bin
+*.ckpt
+results/
+checkpoints/
+
+# System
+.DS_Store
+Thumbs.db
