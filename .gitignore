@@ -17,8 +17,11 @@ venv/
 *.pt
 *.bin
 *.ckpt
-results/
+training/results/
 checkpoints/
+
+# Annotator-Ergebnisse werden committed (wissenschaftlich wertvoll)
+!annotator/results/
 
 # System
 .DS_Store

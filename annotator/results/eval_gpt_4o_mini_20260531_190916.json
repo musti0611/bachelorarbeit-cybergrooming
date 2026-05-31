@@ -1,0 +1,2314 @@
+{
+  "model": "gpt-4o-mini",
+  "timestamp": "20260531_190916",
+  "n_fewshot": 3,
+  "total_evaluated": 319,
+  "accuracy": 0.793,
+  "api_errors": 0,
+  "metrics": {
+    "NEUTRAL": {
+      "precision": 0.698,
+      "recall": 0.957,
+      "f1": 0.807,
+      "support": 46,
+      "tp": 44,
+      "fp": 19,
+      "fn": 2
+    },
+    "VERTRAUENSAUFBAU": {
+      "precision": 0.875,
+      "recall": 0.761,
+      "f1": 0.814,
+      "support": 46,
+      "tp": 35,
+      "fp": 5,
+      "fn": 11
+    },
+    "INFORMATIONSGEWINNUNG": {
+      "precision": 0.724,
+      "recall": 0.913,
+      "f1": 0.808,
+      "support": 46,
+      "tp": 42,
+      "fp": 16,
+      "fn": 4
+    },
+    "GEHEIMHALTUNG/ISOLATION": {
+      "precision": 0.882,
+      "recall": 0.652,
+      "f1": 0.75,
+      "support": 46,
+      "tp": 30,
+      "fp": 4,
+      "fn": 16
+    },
+    "SEXUALISIERUNG": {
+      "precision": 0.818,
+      "recall": 0.957,
+      "f1": 0.882,
+      "support": 47,
+      "tp": 45,
+      "fp": 10,
+      "fn": 2
+    },
+    "KONTROLLE/NOETIGUNG": {
+      "precision": 0.792,
+      "recall": 0.475,
+      "f1": 0.594,
+      "support": 40,
+      "tp": 19,
+      "fp": 5,
+      "fn": 21
+    },
+    "OFFLINE-ESKALATION": {
+      "precision": 0.844,
+      "recall": 0.792,
+      "f1": 0.817,
+      "support": 48,
+      "tp": 38,
+      "fp": 7,
+      "fn": 10
+    },
+    "MACRO": {
+      "precision": 0.805,
+      "recall": 0.787,
+      "f1": 0.782,
+      "support": 319
+    }
+  },
+  "predictions": [
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "Im not feeling all that hot actually",
+      "conv_id": "e8d7d0a27323f7018908794c6da85415",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "so what are you going to order?",
+      "conv_id": "ab845e4035f184deb613605cc6c679e9",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "does she talk bad about him to you?",
+      "conv_id": "4bfeca6d6dc7092caf519aed4f8a8355",
+      "correct": false
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "always gotta think 4 the future lol",
+      "conv_id": "df3edb0420a3e896dccf6ded20c3ec58",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "do ur work ur schooling is very important",
+      "conv_id": "a8096b54b9b4ba893dec3d00da49c3ba",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "just listenin to music and talkin to you",
+      "conv_id": "027d9feb84a3976192f0242f759ae367",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "I am going to take ashower now",
+      "conv_id": "137ae99e0f6b1cbe63e865bfb1505291",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "im not big on ghost hunters i like the rest tho",
+      "conv_id": "df3edb0420a3e896dccf6ded20c3ec58",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "the good old days when i was a young lad",
+      "conv_id": "3c689a8b53787681208eb16e5618775f",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "as it is Friday i dont have much work",
+      "conv_id": "91fe76ce26b1e55841310385a6593eff",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "I was wondering if you was going to speak to me",
+      "conv_id": "a078991be850f9813030847e884e1abe",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "lol any thing to drink I like coke and Mt. dew",
+      "conv_id": "7443985129374f31e2fa4d96119facb6",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "thats why i'm single ebcause i don't have time for relationships",
+      "conv_id": "6f65306a618fd43e133c2d241e8aef8a",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "Yup sure did and went swimming too.",
+      "conv_id": "b498a36298e4aa6c34c8f020d807170d",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "lol....it's spelled excited not exited",
+      "conv_id": "acb33178e7330fa916f7e5bd251fc606",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "I'm always funny person to do great things",
+      "conv_id": "3b9018ee35c1acc518c18c40e5e8d1d6",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "let me go get something to drink",
+      "conv_id": "059c561ebf7e4172d3434d56b984b5ae",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "lol no keep the money its all good",
+      "conv_id": "0307091724896a50d827c702f8eb3280",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "i hope I get a snow day tomorrow",
+      "conv_id": "342b6a346d048fea9134ab9d2f5343d5",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "we built units to clean dirty water to make to clean water",
+      "conv_id": "cd3d40abb1dd3b26e0d4d51104946b5f",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "sounds kinda boring...my kinda time!",
+      "conv_id": "2c89b15b626ad220530a5c7e482d0083",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "I hope you have a GREEEEEAT Thanksgiving",
+      "conv_id": "fcd6a2797825cac50be7db6718a09744",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "Nothing to it,, a grease fire on a stove",
+      "conv_id": "729220291935e4cd9124fbfcd40b4ff5",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "I hope you're having fun at the birthday party",
+      "conv_id": "f87f1d093e3e16f090101d1b6f9a9448",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "what woulf you like for christmas?",
+      "conv_id": "6867990fe4624d78d44e3bc682446966",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "wow why are you not at the fair",
+      "conv_id": "7148c41248cf217443a6982f72358e39",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "oh i logged off for a min i was washin clothers",
+      "conv_id": "416fad40fff045833a11ecab0ffe4dff",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "it really dont mean nothing.............have a good day",
+      "conv_id": "5683a11882743a54851bab2eb119f284",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "I normally read about everything, even cookbooks when I am bored",
+      "conv_id": "ba70770cd67b1264f858a1911bb68afa",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "i'm in the waste management business",
+      "conv_id": "3c689a8b53787681208eb16e5618775f",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "yeah, its much faster than the last one I made",
+      "conv_id": "ffd55257c660e70e17cd38834037a46c",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "well it was a life lwesson i lived",
+      "conv_id": "fd844d51d3397cc24c5acc6220a263ef",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "lol well I'm sure I could but I dont cuz I cant have much of it",
+      "conv_id": "13f35895529f364afce515b7decc2a5e",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "The lil boy behind me looked at his Mom and said\"momma, that man smells like barb Q\"",
+      "conv_id": "729220291935e4cd9124fbfcd40b4ff5",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "as well as south sea island tribes in tahiti and Samoa",
+      "conv_id": "fe7bdb47bf11ac2e64d7ed776b51cc8f",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "lol im jk,im sure theres lots to do",
+      "conv_id": "52657b6c5cb77514c42260a33d33a679",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "i don't never want to be either;i have been a lot in the past",
+      "conv_id": "f13f5286557c05f893aabb6a8cb19760",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "they should have a stoned smiley face",
+      "conv_id": "3c689a8b53787681208eb16e5618775f",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "lol hey! i just woke up lol",
+      "conv_id": "37f5534c6f1fe028649a24e8147900f9",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "lol because i cant sleep :c",
+      "conv_id": "e5163777bb5fd510e63dd4a1c5784e43",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "im studying for a test...",
+      "conv_id": "f48f3c8c9952e29ffdf5ef67e86971ef",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "Its my birthday so I just woke up real early :D",
+      "conv_id": "d215667bc65cebc993f631f8fc7991f3",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "how come weekends go so fast",
+      "conv_id": "213e2838ea8be0cda7e54c087a20e418",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "it's saturday over there right?",
+      "conv_id": "a356cc71d950824bbd1959db61b774cf",
+      "correct": false
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "thats not really even time to have dinner. :9",
+      "conv_id": "e0fabdc12cce220079d5bc02b0631fea",
+      "correct": true
+    },
+    {
+      "gold": "NEUTRAL",
+      "pred": "NEUTRAL",
+      "text": "nothing, just got home",
+      "conv_id": "978b479fcd2b1f0283c4eb550fdad38a",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "Ohhhhhh >:D< you just make my head spin and my heart smile :)",
+      "conv_id": "cc8c6311ebf7757b4b1ffb3f78f4adc7",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "SEXUALISIERUNG",
+      "text": "if u were two feet away i'd want u closer.",
+      "conv_id": "8eb31cdcc273407c20ed9a94b47d2543",
+      "correct": false
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "but just wanted to say HAPPY THANKSGIVING to my girl",
+      "conv_id": "df2c9c35e002d8f4906c7e161bf54244",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "what if we fall in love doing this",
+      "conv_id": "0ac2fa8683fcd60908a740f8d316ccc7",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "i am real happy I met you too sweetheart",
+      "conv_id": "279f7fc39610229a2804826e802be217",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "forget what others say bout u u are really cute",
+      "conv_id": "fc0ff2211a26ca0e5f7cd5b5a11e0dfc",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "bye sweetness! gots to go ) for now !",
+      "conv_id": "ebebb3b222c7b5f8b385cdb21bfbe690",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "NEUTRAL",
+      "text": ":-*>:D< u going to try to call again tommrow?",
+      "conv_id": "1c78f7f07957b23ee679288ad5963740",
+      "correct": false
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "i was bummed out i didn't get to talk to you this afternoon",
+      "conv_id": "30048622cca1e66e0e49da954fc993fb",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "im here babe i gave you my number so you could of called whenever you wanted silly",
+      "conv_id": "399bccd8d0df9f08c75325df9c90f8ec",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "i'd be sad only if i did'nt talk to you anymore",
+      "conv_id": "7f0edd67a20bfef4d9d8c50063168ad2",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "hello there hunny wow do i miss you well id wanted to tell you that mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm I LOVE YOU :\">and i want to :-* you and >:D< you alot well when you get this call me tonight please hunny",
+      "conv_id": "e6e60d0fae029b843a0a585d3afb6169",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "i know.........i still look at your pic every day",
+      "conv_id": "4ce66cc30f2f8c919aec55c72b89e036",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "NEUTRAL",
+      "text": "i cant believe your even talkin to me",
+      "conv_id": "d19a3f1f9cb5dcc6188ac3835b899b79",
+      "correct": false
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "hi sweetie...I hope your not too mad at me",
+      "conv_id": "587f98804b6fdb508b038b16807e5556",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "it would be fun to see you laugh",
+      "conv_id": "53496fed9b0b88040ca4e46e155e5409",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "NEUTRAL",
+      "text": "if i love someone i love somene forever",
+      "conv_id": "2117524b1664ee40dbb00f52c8bbe22b",
+      "correct": false
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "dont feel bad I know how you feel",
+      "conv_id": "51df06e62b99700e35412c99629eabbf",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "i would make u feel like u were a princess",
+      "conv_id": "30300c9099cf068edebbd8b0a341e493",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "i saw your pic and i just gotta say you look beautiful",
+      "conv_id": "74d3c00382c0e03fde9496e969c60b67",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "SEXUALISIERUNG",
+      "text": "also If i was with u I would take ur flue for me",
+      "conv_id": "1f8cb652da9caab9b96d454d28ea4d77",
+      "correct": false
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "hi sweetie just me i miss talking 2 u friday, wish i could of talk 2 u about something good. i try 2day and i am so sad that i didnt see u, hope see u 2day.",
+      "conv_id": "99bfc6e955a8a48cd1060e1854fd4269",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "u will be a beautiful woman in a couple years.",
+      "conv_id": "8eb31cdcc273407c20ed9a94b47d2543",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "goodnight sweetdreams youll be in my thought",
+      "conv_id": "79ae7321e232089d9483e176fbc99042",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "Robin i understand sweetie ok. call me on friday ok. you can call me at anytime on friday",
+      "conv_id": "acdb7c4e346f7f0d532f25cd752d2468",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "I love u carrie marie thompson",
+      "conv_id": "4eaa173dde98f33617c86d880db5bc3e",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "can believe u dont have guys at school wanting u",
+      "conv_id": "366858d9ac34d2688223df8719c1e331",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "NEUTRAL",
+      "text": "as long as u r with me in spirit its fine with me",
+      "conv_id": "a238f68e5bfb3ff9f38ef1d04a390c3c",
+      "correct": false
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "your such a cutie you know that i love your voice",
+      "conv_id": "949157e793d7b58cca8e69696195391a",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "ur the only person im talking 2",
+      "conv_id": "1a620648db4e64d9b496a10cf268fa0e",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "willing to be a partner in creating a loving family. I can not promise bad things wont happen cause they do but if you have loving and caring people around you --- it will help so much.",
+      "conv_id": "f2aeb162c373f0c4b0071b0cfe240b4e",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "i didn't want you to think that i changed my mind because i don't like you because that is not the case",
+      "conv_id": "587f98804b6fdb508b038b16807e5556",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "naw I won't make you do anything you don't wanna",
+      "conv_id": "b55a5de9c419f52ed20a0f0312981071",
+      "correct": false
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "ur the most beautiful girl in the whole world",
+      "conv_id": "4bfeca6d6dc7092caf519aed4f8a8355",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "heh thanks for the concern hun",
+      "conv_id": "a7694e34de0726cecee6df7fd9cb78f9",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "I dont call anyone else sweetness!",
+      "conv_id": "2caf6376815018e869e035d6abd2188a",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "NEUTRAL",
+      "text": "sorry about that big lighting strike knocked out the power just now got me internet back up well hope you have a wondering day hope to talk to you latter on this evening hope you had some sweet dreams >:D<>:D<:-",
+      "conv_id": "cfac30bed30bc0ed991787bdc42486b4",
+      "correct": false
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "NEUTRAL",
+      "text": "i was trying to chat with u like an hr and a half but u were away",
+      "conv_id": "ccc2f2f16c5aafb38e096f331d0e7801",
+      "correct": false
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "NEUTRAL",
+      "text": "its sunday and just checking to see if u were around...ill check back in a lil while...",
+      "conv_id": "4c13916be6a79aa1a435b8d582ec616b",
+      "correct": false
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "hi baby my meetings done i hope to hear from you soon i miss you i cant stop thinking of you",
+      "conv_id": "42abfbe45a4941f28252314f8aca2a9b",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "well u are cute too cory i mean i love everything about u and when i talk to u it dosent feel like im talking to someone ur age and im glad i make u feel special i just look forward to talking to u everyday!",
+      "conv_id": "cf6cafbf41d2bd9b32ca79f8d7a0c2d2",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "NEUTRAL",
+      "text": "no ill respect u iam not that way i dont take advantage of people",
+      "conv_id": "21673624654858c4926fe8f1124f9d79",
+      "correct": false
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "wish i could give u a hug right now",
+      "conv_id": "97898ab47009fbe716ec1fdd5fb95990",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "because your worth it your special",
+      "conv_id": "058aed70ca1f38d88e181e366c0c5620",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "your eyes for one. there so mesmorizing i can get lost in them",
+      "conv_id": "74d3c00382c0e03fde9496e969c60b67",
+      "correct": true
+    },
+    {
+      "gold": "VERTRAUENSAUFBAU",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "Please leave your messenger running so I can contact more easily. I miss you!",
+      "conv_id": "9c81d7ee686bc6047ac010d5a0a5ad50",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "what is around the mcdonalds that u were at?",
+      "conv_id": "d4d3735096812a7022ea372e96dd3d4b",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "do u know what ur address is of the palce u live at? lol",
+      "conv_id": "b27448bee51787c6f4c7e3e159aa4a94",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "you allowed to go out with older guys?",
+      "conv_id": "a7851341719f38509c15ea3b13d58183",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "NEUTRAL",
+      "text": "so what are your plans for the day?",
+      "conv_id": "cb0e4b35b80847d23b1053a8efeea490",
+      "correct": false
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "i wont i just wondered what city in michigan not your adress silly",
+      "conv_id": "b698cc603ecde3704c1bd83a08b48558",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "have u started having your period yet",
+      "conv_id": "77de2082be0ce90c828fb708a4ae6127",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "when was exact date of ur period?",
+      "conv_id": "82d1514b6e415597011ecc17df05d365",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "is there any house close ur house?",
+      "conv_id": "6f5fb86532fb9f2484ee3d34b65fbcea",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "did ur dad tell any thing about the schedule?",
+      "conv_id": "63f2f3284a36e3a9e9b8f69c0d6d7236",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "iam m 40 greenfeild ohio and u",
+      "conv_id": "21673624654858c4926fe8f1124f9d79",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "yeah what time is your mom leaving",
+      "conv_id": "c9931fd684fabcca524468712b6fdace",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "when does ur mom get back sun night?",
+      "conv_id": "eeef827ce5a4e42032f9f2afee62c9cd",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "can u get out at night on a weekend?",
+      "conv_id": "ff91f5d20267c58f96c1a8a8d69ba227",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "what time does he go to work and get off",
+      "conv_id": "7148c41248cf217443a6982f72358e39",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "Hehe good point...where is your dad? Are they separated?",
+      "conv_id": "a7694e34de0726cecee6df7fd9cb78f9",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "what the biggest town close to u",
+      "conv_id": "21673624654858c4926fe8f1124f9d79",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "that sucks.You have any brothers or sisters?",
+      "conv_id": "0063692c957229db0816e0f240d7fa0d",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "how far is that chase bank from u",
+      "conv_id": "366858d9ac34d2688223df8719c1e331",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "do the neighbors know who you there?",
+      "conv_id": "3a4e83ca43b4bfbb271718c0396f570e",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "would you be able to get away>",
+      "conv_id": "d9908d9adc847ce05db8496a1e1f3ff4",
+      "correct": false
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "so u met on line? did he live close to you?",
+      "conv_id": "4e75ca98a370592e175548e444f9b15e",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "what do u do for fun there no 1 to hang with",
+      "conv_id": "db7833792cdb9ecb4486dfae5f15ea09",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "ok... got it. how late can you stay out?",
+      "conv_id": "3a4e83ca43b4bfbb271718c0396f570e",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "why arent you going with your mom this weekend?",
+      "conv_id": "bb6c34aad09295adb4881a13c44eba92",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "u ever do stuff with an older guy b 4?",
+      "conv_id": "4ed6b02ae537fdfd6078597b706292a8",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "well in order to come get you i have to know where u live!!!!...lol maybe give me your number or house address that would work..",
+      "conv_id": "bd49ea1e76331d271654861e430b62cc",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "so u gonna wait till your married to have sex?",
+      "conv_id": "8d3da24f023ff1ec7c97ff59afbf3311",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "hey how did you go to the store isn't your mom at work",
+      "conv_id": "7443985129374f31e2fa4d96119facb6",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "o it's you and your mom only living there? lol How does she trust you to stay home alone? Thats awesome",
+      "conv_id": "a7694e34de0726cecee6df7fd9cb78f9",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "did you enjoy your first time?",
+      "conv_id": "74d3c00382c0e03fde9496e969c60b67",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "so what will happen if your not there when your parents get home?",
+      "conv_id": "a28fbf4af521a2d06a41042d049be6e1",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "what time do u usually go to sleep",
+      "conv_id": "fa8f8574546c35ce376b8a9ee755839b",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "how did your parents react to you dating a 17 yr old",
+      "conv_id": "74d3c00382c0e03fde9496e969c60b67",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "when does he come in your room?",
+      "conv_id": "ab9148b5c130f9c416fb33e02196a59a",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "so have you gone out with many guys?",
+      "conv_id": "74d3c00382c0e03fde9496e969c60b67",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "nah i will be there, do you drive?",
+      "conv_id": "baf423d86056e51f981ec13876934b10",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "well when i go over there ur not gonna be close to getting ur period or anything like that right",
+      "conv_id": "efca4d4915c03ee42ee6f2fd4ffc10bd",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "like they talked to u about virginity",
+      "conv_id": "6d7e4a095821a774480ca3a222b561be",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "so how many times have you kissed a guy?",
+      "conv_id": "4d8d6f069eed6fa2aa373a63527367d5",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "any shots of u and friends or family?",
+      "conv_id": "74905ab63bb8b189c6700682ec86be1d",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "so, do u have a boyfriend in school?",
+      "conv_id": "8e69130dfad036165245d3a8c17f9917",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "did u tell ur friends they where leaving",
+      "conv_id": "2a8d475b2da31a0d43d8c3f745e84ecd",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "give me your number we can talk for a while",
+      "conv_id": "767eb6dbf083614275a895cc9c0f8878",
+      "correct": false
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "dont u and your mom get a long",
+      "conv_id": "a2ae7876d8e6500f3e82a25abdca8023",
+      "correct": true
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "NEUTRAL",
+      "text": "o ok so what r u doing tonight",
+      "conv_id": "bbcf9de3e9686d2f1472b51f508027f3",
+      "correct": false
+    },
+    {
+      "gold": "INFORMATIONSGEWINNUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "hey what time do you have to be at school today?",
+      "conv_id": "a28fbf4af521a2d06a41042d049be6e1",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "between us..we can keep going if u like",
+      "conv_id": "6d7e4a095821a774480ca3a222b561be",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "dress is not a good idea because mom or dad can ask u from where u got it",
+      "conv_id": "23adb061e0e68ef692bd1d50f1d5140c",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "if someone saw you out or if your aunt come home early",
+      "conv_id": "92b45899d62dbf4229cfc39b31cd7028",
+      "correct": false
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "is there a window you can see out to see if she pulls up",
+      "conv_id": "23985b7ce37b9ad8fcdfd5b5337e92d4",
+      "correct": false
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "u r younger i have to be carful",
+      "conv_id": "be270f6b4117a098bfa65567b35dcaa5",
+      "correct": false
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "you know your mom has been at the store for a really long time",
+      "conv_id": "32433e805a30c85836afe93b1fc8e13f",
+      "correct": false
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "hun do you delet your talks so she can't find them?",
+      "conv_id": "a078991be850f9813030847e884e1abe",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "ok she's gone,and we have all the time we want is right..",
+      "conv_id": "97cfcf5712c69bd47737cb96f7db90e1",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "NEUTRAL",
+      "text": "cause something like this is not supposed to happen a guy my age talking to a girl ur age",
+      "conv_id": "b0af6199c44e67911a9f32e66c5f2f8f",
+      "correct": false
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "thats good so ur parents are leaving for sure",
+      "conv_id": "394b0d1ff993fc2e92edfb2f71009e9a",
+      "correct": false
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "you won't tell anyone I am having sex with you, right baby?",
+      "conv_id": "57fac62074b0602711bf4ba54806f146",
+      "correct": false
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "and it would b hard for us to get caught right",
+      "conv_id": "567b33a63ab4a8b38c841a4b962e3e3b",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "you want a pic, description, and what kind of car i drive and what i will be wearing so it will be totally easy to bust me, duuuuh",
+      "conv_id": "32433e805a30c85836afe93b1fc8e13f",
+      "correct": false
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "make sure ur friend's mom dont see me",
+      "conv_id": "6038f9115c1c9da81e7e6c2d7319ad27",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "i cant share or nething remember",
+      "conv_id": "313e8f0dc3ae02ccd3c3d9712dfd5b6b",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "well you can wait til I shut the door",
+      "conv_id": "57fac62074b0602711bf4ba54806f146",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "if we were to go out and sombody asked anything about us we tell them that we are sister and brother is that ok with u",
+      "conv_id": "1f4473239b82532e3811d22b9207120a",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "my luck will be the time someone finds out",
+      "conv_id": "ee49747589d746baf12b33d739dc3436",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "no one will see you go in my room will they?",
+      "conv_id": "57fac62074b0602711bf4ba54806f146",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "i dont want ur mom seeing me anyway",
+      "conv_id": "83d02741da50d8a84485cb8d0cb39b88",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "you would get me in trouble that is what I was asking???",
+      "conv_id": "87086d4f21f30392b29a38fbee495f2f",
+      "correct": false
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "lol I'm not sure, I'd have to make sure they dont see",
+      "conv_id": "cb0e4b35b80847d23b1053a8efeea490",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "are you certain she's not coming home tonight?",
+      "conv_id": "cc5e20950135f4048bfe6c68ac42118d",
+      "correct": false
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "no one will be checking up on you?",
+      "conv_id": "8d517d58a223c8913f44af0e65eb1b05",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "you're not gonna get in trouble?",
+      "conv_id": "b7e0d6ec92780e52ef405688310c86b2",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "if they ask u to view them dont ok",
+      "conv_id": "177f184ef6984565c26912b9ec684bc0",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "i just hope this isnt some setup like u see on tv where they arres the guy for going to see underage girls",
+      "conv_id": "abc43c5823237b11c7ae0a6261111ce6",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "if i play with ya n get caught but we wont",
+      "conv_id": "0ec23465d064ab518e57bc456050c88f",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "is that a good private spot or is there better",
+      "conv_id": "dd2d3eebe818af215d51c5d336ae7d6d",
+      "correct": false
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "she don't have neighbors keep on eye on you",
+      "conv_id": "b55a5de9c419f52ed20a0f0312981071",
+      "correct": false
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "we wont get caught make sure u delete this stuff",
+      "conv_id": "65c0464e27a93c026f855aa5a26f63dc",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "you could get your mom to take you to see a movie matinee today and tell her you were going to meet a girl friend and i could meet you",
+      "conv_id": "4af7f129024ede0a1371f8f751c9b569",
+      "correct": false
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "u wouldnt do something like that right",
+      "conv_id": "c3ea47a37ed45af154c62219943ed112",
+      "correct": false
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "if u do tell them it was someone your age ok",
+      "conv_id": "0ac2fa8683fcd60908a740f8d316ccc7",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "we can keep on the low if ya want",
+      "conv_id": "30300c9099cf068edebbd8b0a341e493",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "NEUTRAL",
+      "text": "they arrested guy's going to meet 13 yr old girl they chatted with on the web",
+      "conv_id": "0a24d01229e3f70427171383a75f0851",
+      "correct": false
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "Cindy, do you want to be my secret lover?",
+      "conv_id": "57fac62074b0602711bf4ba54806f146",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "can you see it without your aunt seeing it/",
+      "conv_id": "769976e3056e3b48e7c84b03415b391f",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "so have u told anybody about us?",
+      "conv_id": "5d3aa5f6d41ca60a72da1657ca42024a",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "yep...don't tell nobody okay...",
+      "conv_id": "f03e729ef6ce077d9bdb238c91068b2f",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "you won't say anything if we do something right?",
+      "conv_id": "1ac8120656883a70db1267d8dc31710d",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "sami it will be ok if i go see u xtra neighbores wont say anything to your mom",
+      "conv_id": "3ed16b22202499d452c229538a18ca8c",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "after you call n tell me he is gone",
+      "conv_id": "180bceebacb5f1bcadebb4ca4447a4e1",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "make sure that ur dad will not u on Saturday night",
+      "conv_id": "82d1514b6e415597011ecc17df05d365",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "thought if u all close friends...maybe share some secrets",
+      "conv_id": "6d7e4a095821a774480ca3a222b561be",
+      "correct": true
+    },
+    {
+      "gold": "GEHEIMHALTUNG/ISOLATION",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "r u sure mom wont call when u dont have school",
+      "conv_id": "6d7e4a095821a774480ca3a222b561be",
+      "correct": false
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "then we can try it inyour ass like that too",
+      "conv_id": "22a9ef8629aa10e43753f7d4ec9963c7",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "did the guy u went down on have a really big dick?",
+      "conv_id": "8e69130dfad036165245d3a8c17f9917",
+      "correct": false
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "so do you know what ur sexiest panties are",
+      "conv_id": "252263ecb596d7e2eb2422b8ee2459b9",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "i want to a naked picture of you",
+      "conv_id": "c2504300a8c130b0f6f043785a4b5355",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "lol i didn't even ahve enough time to get u wet :( lol",
+      "conv_id": "3c5b23be32bbe84c29f13625e803725f",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "you are gonna be wet as fuck when i am done with you",
+      "conv_id": "baf423d86056e51f981ec13876934b10",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "if not i'll finger it for u when u get here and show u how",
+      "conv_id": "086f808b540617b30eb2be8053a8172e",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "not a bad thing esp.w/you hot and sweatty",
+      "conv_id": "fa8f8574546c35ce376b8a9ee755839b",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "then i will lick your hole and promise your going to like it",
+      "conv_id": "dfdef860af7196553076a1e4fa63a0ee",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "so you getting big boobs or not?",
+      "conv_id": "1e2b66c21c9bc767042b4246175f2ab4",
+      "correct": false
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "then ill tie u up and fuck u hard",
+      "conv_id": "531c7a865efa9ec62dca06ba52c00bb0",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "wish you at least had naughty pics to give me",
+      "conv_id": "f6f7a580eddc7a9f62b889a4aeb8102e",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "would u want me to put it in u?",
+      "conv_id": "9422732ae20d7f3e378b1707f8e13304",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "what position would you want to fuck with me the most in",
+      "conv_id": "31a03363da7f4de37d1dbb223310e966",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "it is like kissing the privates",
+      "conv_id": "573c2a2bce882855bedb1d16057e272c",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "and u can suck my cock all u want",
+      "conv_id": "6038f9115c1c9da81e7e6c2d7319ad27",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "Would you put it in your mouth?",
+      "conv_id": "20be9af4e89228746cb37783c75dab27",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "who needs cloths, u r fine naked and wet..lol",
+      "conv_id": "e1a1fd9c6a9f4b511633897f914c8074",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "would u watch me and him touch each other?",
+      "conv_id": "531c7a865efa9ec62dca06ba52c00bb0",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "what would u do if i wanted tocum in you?",
+      "conv_id": "a28fbf4af521a2d06a41042d049be6e1",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "i want to make love to you all weekend",
+      "conv_id": "3c64110fa471aea3a30041a8439b9930",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "I want to sleep with my penis inside your pussy",
+      "conv_id": "b7e0d6ec92780e52ef405688310c86b2",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "do u like looking at the pic of my cock?",
+      "conv_id": "fb694a2db2dc6a2f63e46c70912aceca",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "why do i get hard just talking 2 u baby",
+      "conv_id": "02e8e07bcb260c4d3bd272d5a4a70a69",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "is your pussy getting wet thinking of that",
+      "conv_id": "838fbfecc2157e1f1caa321403c58ad2",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "to bad I would like to coach you on the finer points of masturbating",
+      "conv_id": "fe043d088295a0e9dac9be12abe53745",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "can i do finger fuck if you like",
+      "conv_id": "192fd9c174759fa4730350f07f2c9167",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "watching videos of girls sucking hehe",
+      "conv_id": "b6bbe2fb94b5ad8bc72030e7723c030c",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "im going to eat that sweet pussy like u never had it eaten before",
+      "conv_id": "a2ae7876d8e6500f3e82a25abdca8023",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "and you can squeeze my cock and stroke it",
+      "conv_id": "fd177a2bb631795e2064cdf87e501180",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "u want me to bring some porn to watch?",
+      "conv_id": "67f632da724fc118e4358d957da6ec19",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "every pussy cant take a dick this big so i have to find out first if u can take it",
+      "conv_id": "9ecc7bc0e4e6b3139c31591cae9db65f",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "so you played with your fingers....",
+      "conv_id": "059c561ebf7e4172d3434d56b984b5ae",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "so have u been thinking about when i showed u my cock on my cam?",
+      "conv_id": "73f1a56bbd6a74f0fcbb41c7d1099988",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "so will you feel your self for me while im on cam?",
+      "conv_id": "fe043d088295a0e9dac9be12abe53745",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "well with you sitting on my lap i would let you feel how hard and big i am",
+      "conv_id": "84df67c9a7a3e2f55772cf9920f4cf0b",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "your breasts will be very hard",
+      "conv_id": "4f2be4b4388781fefaa94e6f7d45de6c",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "do you want me to cum anywhere specific?",
+      "conv_id": "67f632da724fc118e4358d957da6ec19",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "not but but and vagina or justy vagina",
+      "conv_id": "ab9148b5c130f9c416fb33e02196a59a",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "U going to sleep naked with me?",
+      "conv_id": "6c00e76dd8c1a73917f2c70fe04111a2",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "can I take off your panties???",
+      "conv_id": "f89fc1b865715fb22b433073c6a7ad9b",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "yes,private so I can eat your pussy real good and then fuck you",
+      "conv_id": "52f971d982abe2f6462804bac415cfeb",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "if you saw that I had a hard on while in the pool with you what would you do",
+      "conv_id": "c93218ad7a9f0f834b319064be9ec904",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "think u could handle 9 inches?",
+      "conv_id": "74905ab63bb8b189c6700682ec86be1d",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "actually im looking forward to regular sex and how good u are at giving head",
+      "conv_id": "95d4013ecbabe7c6eb2e7fb0d712fc04",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "i want to stick my tongue up your ass to get it nice and wet then try to slip the tip of my cock into it",
+      "conv_id": "f99999db76429920c70cf1614fcdda4b",
+      "correct": true
+    },
+    {
+      "gold": "SEXUALISIERUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "when you masturbate you know what to do",
+      "conv_id": "059c561ebf7e4172d3434d56b984b5ae",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "im the man and you need to do what i ask:)",
+      "conv_id": "ab9148b5c130f9c416fb33e02196a59a",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "your making me feel like shit now im just gonna go",
+      "conv_id": "9d3a3791e48a8a6daac3e768b7c384ed",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "well wear 1 of them for me lil slut",
+      "conv_id": "9ecc7bc0e4e6b3139c31591cae9db65f",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "remember to wear a skirt for me ok?",
+      "conv_id": "c6946993ad122e257091ba89d692d8dd",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "so you know ill be hurting you",
+      "conv_id": "7148c41248cf217443a6982f72358e39",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "and you can stay my good girl?",
+      "conv_id": "a28fbf4af521a2d06a41042d049be6e1",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "yea but i know i would hurt you if i had sex wit you",
+      "conv_id": "70847016e3149ac5e7baed88376b1a56",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "sweetie please just let me come there",
+      "conv_id": "23985b7ce37b9ad8fcdfd5b5337e92d4",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "so sat night, around 9 or so, be ready for me",
+      "conv_id": "67f632da724fc118e4358d957da6ec19",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "i am not being like anything....i do not have time to run all over turn to a motel and stuff....you said i could come there and now you are changing the whole thing",
+      "conv_id": "23985b7ce37b9ad8fcdfd5b5337e92d4",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "u wont make me jealous would u ?",
+      "conv_id": "6038f9115c1c9da81e7e6c2d7319ad27",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "since it will be dark out now u going to do what I asked",
+      "conv_id": "c05d5c99087e67891d6504f8dd285ec0",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "u going to see some other guy?",
+      "conv_id": "d30afa2aeebc938451a1acb3b838b590",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "NEUTRAL",
+      "text": "is that room clean and homework done?",
+      "conv_id": "0e44e8d2dc343e9c3843b8ecf81f64fa",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "no ill only be mad if u lie 2 me as long as ur honest im happy",
+      "conv_id": "9f5f67e677b93fce2561bb8a45cf66cd",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "no then you might really get in trouble",
+      "conv_id": "23985b7ce37b9ad8fcdfd5b5337e92d4",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "these rooms are not suitable for girl like you",
+      "conv_id": "1a825cb990abb181fd72c6d13bb6dfae",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "NEUTRAL",
+      "text": "you have no clue really , about who or what i am",
+      "conv_id": "32433e805a30c85836afe93b1fc8e13f",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "what is the big deal about me coming there",
+      "conv_id": "23985b7ce37b9ad8fcdfd5b5337e92d4",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "ok when i say pick up the phone",
+      "conv_id": "c169076bcf41b100447ce9bebc517d29",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "you never called or answered like you said u were",
+      "conv_id": "c05d5c99087e67891d6504f8dd285ec0",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "you need to show dad or stick somthing inside of you",
+      "conv_id": "ab9148b5c130f9c416fb33e02196a59a",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "what shirt will you wear for me with your skirt?",
+      "conv_id": "6b409cf9546047c74b235d3d41d85acc",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "if i told you to do something would you?",
+      "conv_id": "2c9f8c402241ac6cbc6ea7e6268a29da",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "NEUTRAL",
+      "text": "im sorry but im not comming! Good bye!",
+      "conv_id": "ca4a57245f086fabea0470efceb0a653",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "yer just thinkin about yourself",
+      "conv_id": "366858d9ac34d2688223df8719c1e331",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "NEUTRAL",
+      "text": "nobody loves me or cares about me",
+      "conv_id": "de6b31c24dbb33dbcf43936f79d12767",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "u better get to sleep soon though if we are gonna fool around later",
+      "conv_id": "3ace6db21d61ae35ac8f8c6cd6d7bab4",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "will u anwser the door with justa bra and that red thong on for me that would be so hot",
+      "conv_id": "53683e4aafabd53e55c3529b8b3f1245",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "did u do what i wanted you to do today",
+      "conv_id": "9f5f67e677b93fce2561bb8a45cf66cd",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "yes, and u know ill go to jail even if u never tell on me and u want it",
+      "conv_id": "531c7a865efa9ec62dca06ba52c00bb0",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "i love you, can u do me a favor???",
+      "conv_id": "2117524b1664ee40dbb00f52c8bbe22b",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "I guess you decided not to call",
+      "conv_id": "12b094b9dbace69e9c1da7933300af7e",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "I oughta put you over my knee and  ya!!",
+      "conv_id": "a4afe27b89696096b327e78d5b8bb973",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "NEUTRAL",
+      "text": "well tell me what you do know and what you would like to do...and dont say idk :-P",
+      "conv_id": "ff91f5d20267c58f96c1a8a8d69ba227",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "no boys can play around with you........just be strong young lady",
+      "conv_id": "44980f4b22af122442c655d99e8999a2",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "if your not gonna tell i can just leave you alone them",
+      "conv_id": "e7386218c6156c9845ef223e782c06fe",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "SEXUALISIERUNG",
+      "text": "u were suppose to say u gotta have me! lol",
+      "conv_id": "2f2b372c0cfe63f96a83ffaaa37a6be3",
+      "correct": false
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "you don't trust me anymore do you",
+      "conv_id": "c0b5f0e423eff3de87af4c1b117db3e5",
+      "correct": true
+    },
+    {
+      "gold": "KONTROLLE/NOETIGUNG",
+      "pred": "KONTROLLE/NOETIGUNG",
+      "text": "if you want it you better prove it to me",
+      "conv_id": "ab9148b5c130f9c416fb33e02196a59a",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "then we can have a beeter idea where 2 meet, u will be home then wont u",
+      "conv_id": "83d02741da50d8a84485cb8d0cb39b88",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "and u want me to come over one of these days?",
+      "conv_id": "531c7a865efa9ec62dca06ba52c00bb0",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "can ya sneak out...or will that get ya into trouble",
+      "conv_id": "a1d8e41ed11c470db0dc2ccc0f23be57",
+      "correct": false
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "no. i will come to ur home first",
+      "conv_id": "82d1514b6e415597011ecc17df05d365",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "cause i think im gonna go tanning to real quick before i come over",
+      "conv_id": "6fbc1fcc570d23cdad6dbd43d6de9c0a",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "like gimme ur phone number or something then ok",
+      "conv_id": "393d66dbc5a5b38e1c9f81577374c3d9",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "so you want me to show up early?",
+      "conv_id": "629a3f3a95f4d4253f0def5f6e4434f6",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "when and how can you that....will your parent freak out if someone picks you up?",
+      "conv_id": "a7851341719f38509c15ea3b13d58183",
+      "correct": false
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "we would have like an hour til u had 2 go",
+      "conv_id": "173fdbdef393a7a7ed6d8a9ce1d758f0",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "and definately on saturday u will in my arms",
+      "conv_id": "e03f7eb24b3b155644e6cf7481f0939e",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "next weekend I could stay 4-5 hours",
+      "conv_id": "d3c0cf788c8ecd0632b9ed1deaf594df",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "can I stay at your house overnight if i go?",
+      "conv_id": "2b98ad945c6ad62c24f8200e436afdc3",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "remember u still gotta give me the address so i can get there",
+      "conv_id": "67f632da724fc118e4358d957da6ec19",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "you have to show me where these places are",
+      "conv_id": "57fac62074b0602711bf4ba54806f146",
+      "correct": false
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "cool....then we have an online date at 10 tomorrow....and if all goes well we will see each other in person shortly after that!",
+      "conv_id": "c234482c6c491426e974f0db691c3cf5",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "you want me to come over cutie sorryi was sleeping i woke up early this morning",
+      "conv_id": "6fbc1fcc570d23cdad6dbd43d6de9c0a",
+      "correct": false
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "it'll be more fun in person....;)",
+      "conv_id": "acb33178e7330fa916f7e5bd251fc606",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "NEUTRAL",
+      "text": "hey girl, I'm getting ready to go. I'll be leaving at 2. :) call me at 5:30, I should be there or almost there. Bye",
+      "conv_id": "2be1c9f0a41e87af905a76609c733619",
+      "correct": false
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "i may park around the corner better",
+      "conv_id": "f9647f68d20ef8425f19cece8b31a7b7",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "i had picked up a ticket for this thursday to come to see u",
+      "conv_id": "5683a11882743a54851bab2eb119f284",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "i can come get u then get a room tomorrow if you can be close",
+      "conv_id": "95539910a8fe6035ecdded42181c5ab3",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "will you give me a call around 1130?",
+      "conv_id": "a28fbf4af521a2d06a41042d049be6e1",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "so can i pick you up or is it to late",
+      "conv_id": "a28fbf4af521a2d06a41042d049be6e1",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "so can i come over right now? ;)",
+      "conv_id": "4d8d6f069eed6fa2aa373a63527367d5",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "So maybe......I'm cummin down there in about 3 weeks",
+      "conv_id": "fe7bdb47bf11ac2e64d7ed776b51cc8f",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "Mit me later crner  and  ok?i dnt want to get lost",
+      "conv_id": "536522ca4f865c17ffe44e9c73c5b36e",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "so, do u want me to be there at 12 : 30",
+      "conv_id": "137ae99e0f6b1cbe63e865bfb1505291",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "586-565-1790 call me so i know i can call you :-P",
+      "conv_id": "0307091724896a50d827c702f8eb3280",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "VERTRAUENSAUFBAU",
+      "text": "i'll be leaving here around 1230,i have my clothes drying..but i am commin sweety",
+      "conv_id": "9563e3b1a52630a00486a03402947ae9",
+      "correct": false
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "hey, I'll probably leave at 2 from here, so I should be there close to 6. If you want call me around 5:45 or so. :)",
+      "conv_id": "bca4e1710c91060835515ef73e2a0260",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "I'll be there by around 7:30~8pm ish",
+      "conv_id": "1c3b858b1611d585f45497fe8e03e6b0",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "ok i thik i can do this if you let me wait til 745-8pm, after my movie i can come down ill be there around 830 and come to your house? and we can be together until around 11-12 midnight and i can come back here and still be able to get a few hrs sleep for church in AM, does thatsound ok with you?",
+      "conv_id": "c6946993ad122e257091ba89d692d8dd",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "U comin outside.? Meet me at tha stop sign",
+      "conv_id": "12cfa310b49d9dd3bf9b8cc44c52abde",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "if you are off school tomorrow call me up 714 357 6806 I'm corey if I don't answer I'll call you back",
+      "conv_id": "ab51fb272b302a2e184c4150c4e810c7",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "This evening for sure! maybe around 8:30.",
+      "conv_id": "0bb767113c89822a1a1dd05723c9fe85",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "ok at least write down the number",
+      "conv_id": "60983a381ef3baa4fe44dfd53b290cb2",
+      "correct": false
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "what was number,, so I can call when I am close",
+      "conv_id": "972ec294a7c9c7798bcd2ceefd920f2e",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "hey if u can call me ok 248 669 6466",
+      "conv_id": "0328353f62ac862ce177b598b6620684",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "gi'me your number I'll dail u rite now",
+      "conv_id": "3b9018ee35c1acc518c18c40e5e8d1d6",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "if i could leave here, can u come to the park?",
+      "conv_id": "ab9b0708776e7a1a52b73304dec237d7",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "will u mind to come to my hotel",
+      "conv_id": "3b9018ee35c1acc518c18c40e5e8d1d6",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "just lookin at directions to ur place",
+      "conv_id": "9384c3a07c81b30f3cf4fe978dd3d5a7",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "ok well you should still have ur phone just incase i get lost or am running late i wont call untill im there and its really nesacerry",
+      "conv_id": "1948dcb8c34daa2251b579d0d15df7ee",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "NEUTRAL",
+      "text": "would you be able to call me later",
+      "conv_id": "5b140df9f44c01842d410322bfaca7a4",
+      "correct": false
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "thats cool, do u wanna come to a party at my house friday? we dont have to party, we can just hang in my room if you're not mad at me",
+      "conv_id": "db22c80bc8ba0b01d643c8b2ca28a486",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "OFFLINE-ESKALATION",
+      "text": "too bad I can't call you when I'm almost there or something",
+      "conv_id": "57fac62074b0602711bf4ba54806f146",
+      "correct": true
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "INFORMATIONSGEWINNUNG",
+      "text": "well my goal i need to know where you live so i know how many hours im close to nashville",
+      "conv_id": "95539910a8fe6035ecdded42181c5ab3",
+      "correct": false
+    },
+    {
+      "gold": "OFFLINE-ESKALATION",
+      "pred": "GEHEIMHALTUNG/ISOLATION",
+      "text": "alright hon,i'm walking out the door in about 3 minutes...i'll see you a s a p....let's just let thing's go as they have this far and everything will fall into place and we'll have a very very good time and no regrets",
+      "conv_id": "7d6d8351e9c5804bd937766606311843",
+      "correct": false
+    }
+  ]
+}

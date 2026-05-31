@@ -1,1224 +1,913 @@
 ================================================================================
-  LABEL: NEUTRAL  (51 Beispiele)
+  LABEL: NEUTRAL  (50 Beispiele)
 ================================================================================
   [01] Conv-ID: 98c23dd579368bb0b31b6646bc21f807
-       Turn-Nr: 0005
        Text:    you asked if i was sure, i said "no im not" meaning, "no im not sure" i was being sarcastic
 
   [02] Conv-ID: 6e72b413a2b826e9c543d12401031638
-       Turn-Nr: 0010
        Text:    have u seen that new movie, Barn Animals
 
   [03] Conv-ID: ba0acea2ed36f915320c6885e7707e00
-       Turn-Nr: 0011
        Text:    me neither!!! ive been thinking about it all day!
 
   [04] Conv-ID: e8d7d0a27323f7018908794c6da85415
-       Turn-Nr: 0019
        Text:    Im not feeling all that hot actually
 
   [05] Conv-ID: ab845e4035f184deb613605cc6c679e9
-       Turn-Nr: 0020
        Text:    so what are you going to order?
 
   [06] Conv-ID: 4bfeca6d6dc7092caf519aed4f8a8355
-       Turn-Nr: 0047
        Text:    does she talk bad about him to you?
 
   [07] Conv-ID: df3edb0420a3e896dccf6ded20c3ec58
-       Turn-Nr: 0054
        Text:    always gotta think 4 the future lol
 
   [08] Conv-ID: a8096b54b9b4ba893dec3d00da49c3ba
-       Turn-Nr: 0082
        Text:    do ur work ur schooling is very important
 
   [09] Conv-ID: 027d9feb84a3976192f0242f759ae367
-       Turn-Nr: 0084
        Text:    just listenin to music and talkin to you
 
   [10] Conv-ID: 137ae99e0f6b1cbe63e865bfb1505291
-       Turn-Nr: 0087
        Text:    I am going to take ashower now
 
   [11] Conv-ID: df3edb0420a3e896dccf6ded20c3ec58
-       Turn-Nr: 0090
        Text:    im not big on ghost hunters i like the rest tho
 
   [12] Conv-ID: 3c689a8b53787681208eb16e5618775f
-       Turn-Nr: 0091
        Text:    the good old days when i was a young lad
 
   [13] Conv-ID: 91fe76ce26b1e55841310385a6593eff
-       Turn-Nr: 0100
        Text:    as it is Friday i dont have much work
 
   [14] Conv-ID: a078991be850f9813030847e884e1abe
-       Turn-Nr: 0110
        Text:    I was wondering if you was going to speak to me
 
   [15] Conv-ID: 7443985129374f31e2fa4d96119facb6
-       Turn-Nr: 0118
        Text:    lol any thing to drink I like coke and Mt. dew
 
-  [16] Conv-ID: 44980f4b22af122442c655d99e8999a2
-       Turn-Nr: 0121
-       Text:    iam just feeling depress ....sorry
-
-  [17] Conv-ID: 6f65306a618fd43e133c2d241e8aef8a
-       Turn-Nr: 0127
+  [16] Conv-ID: 6f65306a618fd43e133c2d241e8aef8a
        Text:    thats why i'm single ebcause i don't have time for relationships
 
-  [18] Conv-ID: b498a36298e4aa6c34c8f020d807170d
-       Turn-Nr: 0138
+  [17] Conv-ID: b498a36298e4aa6c34c8f020d807170d
        Text:    Yup sure did and went swimming too.
 
-  [19] Conv-ID: acb33178e7330fa916f7e5bd251fc606
-       Turn-Nr: 0141
+  [18] Conv-ID: acb33178e7330fa916f7e5bd251fc606
        Text:    lol....it's spelled excited not exited
 
-  [20] Conv-ID: 0b3185b09b832231aded5e04691b803c
-       Turn-Nr: 0154
-       Text:    wife and i got into another big fight
-
-  [21] Conv-ID: 3b9018ee35c1acc518c18c40e5e8d1d6
-       Turn-Nr: 0176
+  [19] Conv-ID: 3b9018ee35c1acc518c18c40e5e8d1d6
        Text:    I'm always funny person to do great things
 
-  [22] Conv-ID: 059c561ebf7e4172d3434d56b984b5ae
-       Turn-Nr: 0183
+  [20] Conv-ID: 059c561ebf7e4172d3434d56b984b5ae
        Text:    let me go get something to drink
 
-  [23] Conv-ID: 0307091724896a50d827c702f8eb3280
-       Turn-Nr: 0201
+  [21] Conv-ID: 0307091724896a50d827c702f8eb3280
        Text:    lol no keep the money its all good
 
-  [24] Conv-ID: d1f35c5a009ea049bf46a64d46174f54
-       Turn-Nr: 0203
-       Text:    well at least i make you laugh
-
-  [25] Conv-ID: 342b6a346d048fea9134ab9d2f5343d5
-       Turn-Nr: 0210
+  [22] Conv-ID: 342b6a346d048fea9134ab9d2f5343d5
        Text:    i hope I get a snow day tomorrow
 
-  [26] Conv-ID: cd3d40abb1dd3b26e0d4d51104946b5f
-       Turn-Nr: 0234
+  [23] Conv-ID: cd3d40abb1dd3b26e0d4d51104946b5f
        Text:    we built units to clean dirty water to make to clean water
 
-  [27] Conv-ID: 2c89b15b626ad220530a5c7e482d0083
-       Turn-Nr: 0243
+  [24] Conv-ID: 2c89b15b626ad220530a5c7e482d0083
        Text:    sounds kinda boring...my kinda time!
 
-  [28] Conv-ID: fcd6a2797825cac50be7db6718a09744
-       Turn-Nr: 0260
+  [25] Conv-ID: fcd6a2797825cac50be7db6718a09744
        Text:    I hope you have a GREEEEEAT Thanksgiving
 
-  [29] Conv-ID: 729220291935e4cd9124fbfcd40b4ff5
-       Turn-Nr: 0264
+  [26] Conv-ID: 729220291935e4cd9124fbfcd40b4ff5
        Text:    Nothing to it,, a grease fire on a stove
 
-  [30] Conv-ID: f87f1d093e3e16f090101d1b6f9a9448
-       Turn-Nr: 0281
+  [27] Conv-ID: f87f1d093e3e16f090101d1b6f9a9448
        Text:    I hope you're having fun at the birthday party
 
-  [31] Conv-ID: 6867990fe4624d78d44e3bc682446966
-       Turn-Nr: 0288
+  [28] Conv-ID: 6867990fe4624d78d44e3bc682446966
        Text:    what woulf you like for christmas?
 
-  [32] Conv-ID: 064cd55ba18ff2c6857f76169aebc7f5
-       Turn-Nr: 0302
-       Text:    wow, it is a really good movie
-
-  [33] Conv-ID: 7148c41248cf217443a6982f72358e39
-       Turn-Nr: 0303
+  [29] Conv-ID: 7148c41248cf217443a6982f72358e39
        Text:    wow why are you not at the fair
 
-  [34] Conv-ID: e41b4ae62001aa5abf9cc226110d0b9b
-       Turn-Nr: 0305
-       Text:    lol.....i said hi, u didnt answer
-
-  [35] Conv-ID: 24ac7f1038eaf002dcf60241c6a6be17
-       Turn-Nr: 0324
-       Text:    about to try to download some music
-
-  [36] Conv-ID: 21673624654858c4926fe8f1124f9d79
-       Turn-Nr: 0334
-       Text:    so iam drinking what r u doing
-
-  [37] Conv-ID: 416fad40fff045833a11ecab0ffe4dff
-       Turn-Nr: 0342
+  [30] Conv-ID: 416fad40fff045833a11ecab0ffe4dff
        Text:    oh i logged off for a min i was washin clothers
 
-  [38] Conv-ID: 5683a11882743a54851bab2eb119f284
-       Turn-Nr: 0395
+  [31] Conv-ID: 5683a11882743a54851bab2eb119f284
        Text:    it really dont mean nothing.............have a good day
 
-  [39] Conv-ID: ba70770cd67b1264f858a1911bb68afa
-       Turn-Nr: 0398
+  [32] Conv-ID: ba70770cd67b1264f858a1911bb68afa
        Text:    I normally read about everything, even cookbooks when I am bored
 
-  [40] Conv-ID: 3c689a8b53787681208eb16e5618775f
-       Turn-Nr: 0417
+  [33] Conv-ID: 3c689a8b53787681208eb16e5618775f
        Text:    i'm in the waste management business
 
-  [41] Conv-ID: ffd55257c660e70e17cd38834037a46c
-       Turn-Nr: 0445
+  [34] Conv-ID: ffd55257c660e70e17cd38834037a46c
        Text:    yeah, its much faster than the last one I made
 
-  [42] Conv-ID: fd844d51d3397cc24c5acc6220a263ef
-       Turn-Nr: 0448
+  [35] Conv-ID: fd844d51d3397cc24c5acc6220a263ef
        Text:    well it was a life lwesson i lived
 
-  [43] Conv-ID: 13f35895529f364afce515b7decc2a5e
-       Turn-Nr: 0512
+  [36] Conv-ID: 13f35895529f364afce515b7decc2a5e
        Text:    lol well I'm sure I could but I dont cuz I cant have much of it
 
-  [44] Conv-ID: 729220291935e4cd9124fbfcd40b4ff5
-       Turn-Nr: 0537
+  [37] Conv-ID: 729220291935e4cd9124fbfcd40b4ff5
        Text:    The lil boy behind me looked at his Mom and said"momma, that man smells like barb Q"
 
-  [45] Conv-ID: fe7bdb47bf11ac2e64d7ed776b51cc8f
-       Turn-Nr: 0558
+  [38] Conv-ID: fe7bdb47bf11ac2e64d7ed776b51cc8f
        Text:    as well as south sea island tribes in tahiti and Samoa
 
-  [46] Conv-ID: 6e72b413a2b826e9c543d12401031638
-       Turn-Nr: 0575
-       Text:    i was watching the ninja turtles befoe i got online
-
-  [47] Conv-ID: 52657b6c5cb77514c42260a33d33a679
-       Turn-Nr: 0576
+  [39] Conv-ID: 52657b6c5cb77514c42260a33d33a679
        Text:    lol im jk,im sure theres lots to do
 
-  [48] Conv-ID: f13f5286557c05f893aabb6a8cb19760
-       Turn-Nr: 0583
+  [40] Conv-ID: f13f5286557c05f893aabb6a8cb19760
        Text:    i don't never want to be either;i have been a lot in the past
 
-  [49] Conv-ID: 3c689a8b53787681208eb16e5618775f
-       Turn-Nr: 0636
+  [41] Conv-ID: 3c689a8b53787681208eb16e5618775f
        Text:    they should have a stoned smiley face
 
-  [50] Conv-ID: df3edb0420a3e896dccf6ded20c3ec58
-       Turn-Nr: 0798
-       Text:    and fastlane was an awesome cop/racing tv series a couple years ago
+  [42] Conv-ID: 37f5534c6f1fe028649a24e8147900f9
+       Text:    lol hey! i just woke up lol
 
-  [51] Conv-ID: cc8c6311ebf7757b4b1ffb3f78f4adc7
-       Turn-Nr: 0751
-       Text:    so what you been doin on Spring Break??
+  [43] Conv-ID: e5163777bb5fd510e63dd4a1c5784e43
+       Text:    lol because i cant sleep :c
+
+  [44] Conv-ID: f48f3c8c9952e29ffdf5ef67e86971ef
+       Text:    im studying for a test...
+
+  [45] Conv-ID: d215667bc65cebc993f631f8fc7991f3
+       Text:    Its my birthday so I just woke up real early :D
+
+  [46] Conv-ID: 213e2838ea8be0cda7e54c087a20e418
+       Text:    how come weekends go so fast
+
+  [47] Conv-ID: a356cc71d950824bbd1959db61b774cf
+       Text:    it's saturday over there right?
+
+  [48] Conv-ID: e0fabdc12cce220079d5bc02b0631fea
+       Text:    thats not really even time to have dinner. :9
+
+  [49] Conv-ID: 978b479fcd2b1f0283c4eb550fdad38a
+       Text:    nothing, just got home
+
+  [50] Conv-ID: dbd36e2eabdf4bb19134e8de4dcfab2c
+       Text:    got a rather busy day...
 
 
 ================================================================================
-  LABEL: VERTRAUENSAUFBAU  (51 Beispiele)
+  LABEL: VERTRAUENSAUFBAU  (50 Beispiele)
 ================================================================================
   [01] Conv-ID: 1c1c870a38a8fa861e408f43fe5f4d22
-       Turn-Nr: 0042
        Text:    they dont hate you sweetie pie
 
-  [02] Conv-ID: 4c5e7c4627aa90a4ffab42664174fe01
-       Turn-Nr: 0060
-       Text:    i pretty nice just wish you were older
+  [02] Conv-ID: 7812539c9e1a1469df006bd4176250dd
+       Text:    i don't know where u been, but i miss u a lot
 
   [03] Conv-ID: a30d6d9e86b992c3c8ae3a8579f7c8a6
-       Turn-Nr: 0064
        Text:    im startin to like you already
 
   [04] Conv-ID: cc8c6311ebf7757b4b1ffb3f78f4adc7
-       Turn-Nr: 0079
        Text:    Ohhhhhh >:D< you just make my head spin and my heart smile :)
 
   [05] Conv-ID: 8eb31cdcc273407c20ed9a94b47d2543
-       Turn-Nr: 0092
        Text:    if u were two feet away i'd want u closer.
 
   [06] Conv-ID: df2c9c35e002d8f4906c7e161bf54244
-       Turn-Nr: 0126
        Text:    but just wanted to say HAPPY THANKSGIVING to my girl
 
   [07] Conv-ID: 0ac2fa8683fcd60908a740f8d316ccc7
-       Turn-Nr: 0155
        Text:    what if we fall in love doing this
 
   [08] Conv-ID: 279f7fc39610229a2804826e802be217
-       Turn-Nr: 0165
        Text:    i am real happy I met you too sweetheart
 
   [09] Conv-ID: fc0ff2211a26ca0e5f7cd5b5a11e0dfc
-       Turn-Nr: 0178
        Text:    forget what others say bout u u are really cute
 
   [10] Conv-ID: ebebb3b222c7b5f8b385cdb21bfbe690
-       Turn-Nr: 0207
        Text:    bye sweetness! gots to go ) for now !
 
   [11] Conv-ID: 1c78f7f07957b23ee679288ad5963740
-       Turn-Nr: 0220
        Text:    :-*>:D< u going to try to call again tommrow?
 
   [12] Conv-ID: 30048622cca1e66e0e49da954fc993fb
-       Turn-Nr: 0224
        Text:    i was bummed out i didn't get to talk to you this afternoon
 
   [13] Conv-ID: 399bccd8d0df9f08c75325df9c90f8ec
-       Turn-Nr: 0286
        Text:    im here babe i gave you my number so you could of called whenever you wanted silly
 
   [14] Conv-ID: 7f0edd67a20bfef4d9d8c50063168ad2
-       Turn-Nr: 0292
        Text:    i'd be sad only if i did'nt talk to you anymore
 
   [15] Conv-ID: e6e60d0fae029b843a0a585d3afb6169
-       Turn-Nr: 0293
        Text:    hello there hunny wow do i miss you well id wanted to tell you that mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm I LOVE YOU :">and i want to :-* you and >:D< you alot well when you get this call me tonight please hunny
 
   [16] Conv-ID: 4ce66cc30f2f8c919aec55c72b89e036
-       Turn-Nr: 0308
        Text:    i know.........i still look at your pic every day
 
   [17] Conv-ID: d19a3f1f9cb5dcc6188ac3835b899b79
-       Turn-Nr: 0312
        Text:    i cant believe your even talkin to me
 
   [18] Conv-ID: 587f98804b6fdb508b038b16807e5556
-       Turn-Nr: 0397
        Text:    hi sweetie...I hope your not too mad at me
 
   [19] Conv-ID: 53496fed9b0b88040ca4e46e155e5409
-       Turn-Nr: 0404
        Text:    it would be fun to see you laugh
 
   [20] Conv-ID: 2117524b1664ee40dbb00f52c8bbe22b
-       Turn-Nr: 0438
        Text:    if i love someone i love somene forever
 
-  [21] Conv-ID: 36c4e9a1d1b5ccb25e9a9e87e89bf805
-       Turn-Nr: 0459
-       Text:    please dont be mad or upset i love you so much
+  [21] Conv-ID: 51df06e62b99700e35412c99629eabbf
+       Text:   dont feel bad I know how you feel
 
   [22] Conv-ID: 30300c9099cf068edebbd8b0a341e493
-       Turn-Nr: 0534
        Text:    i would make u feel like u were a princess
 
   [23] Conv-ID: 74d3c00382c0e03fde9496e969c60b67
-       Turn-Nr: 0595
        Text:    i saw your pic and i just gotta say you look beautiful
 
   [24] Conv-ID: 1f8cb652da9caab9b96d454d28ea4d77
-       Turn-Nr: 0601
        Text:    also If i was with u I would take ur flue for me
 
   [25] Conv-ID: 99bfc6e955a8a48cd1060e1854fd4269
-       Turn-Nr: 0660
        Text:    hi sweetie just me i miss talking 2 u friday, wish i could of talk 2 u about something good. i try 2day and i am so sad that i didnt see u, hope see u 2day.
 
   [26] Conv-ID: 8eb31cdcc273407c20ed9a94b47d2543
-       Turn-Nr: 0702
        Text:    u will be a beautiful woman in a couple years.
 
   [27] Conv-ID: 79ae7321e232089d9483e176fbc99042
-       Turn-Nr: 0713
        Text:    goodnight sweetdreams youll be in my thought
 
-  [28] Conv-ID: 1eb6e6dc47f61de3f6f7b4f2641f9102
-       Turn-Nr: 0719
-       Text:    by the way if thats you>>>> your very pretty
-
-  [29] Conv-ID: acdb7c4e346f7f0d532f25cd752d2468
-       Turn-Nr: 0724
+  [28] Conv-ID: acdb7c4e346f7f0d532f25cd752d2468
        Text:    Robin i understand sweetie ok. call me on friday ok. you can call me at anytime on friday
 
-  [30] Conv-ID: 4eaa173dde98f33617c86d880db5bc3e
-       Turn-Nr: 0749
+  [29] Conv-ID: 4eaa173dde98f33617c86d880db5bc3e
        Text:    I love u carrie marie thompson
 
-  [31] Conv-ID: 366858d9ac34d2688223df8719c1e331
-       Turn-Nr: 0782
+  [30] Conv-ID: 366858d9ac34d2688223df8719c1e331
        Text:    can believe u dont have guys at school wanting u
 
-  [32] Conv-ID: a238f68e5bfb3ff9f38ef1d04a390c3c
-       Turn-Nr: 0784
+  [31] Conv-ID: a238f68e5bfb3ff9f38ef1d04a390c3c
        Text:    as long as u r with me in spirit its fine with me
 
-  [33] Conv-ID: 949157e793d7b58cca8e69696195391a
-       Turn-Nr: 0795
+  [32] Conv-ID: 949157e793d7b58cca8e69696195391a
        Text:    your such a cutie you know that i love your voice
 
-  [34] Conv-ID: 74d3c00382c0e03fde9496e969c60b67
-       Turn-Nr: 0796
-       Text:    you sound so cute on the phone
-
-  [35] Conv-ID: 1a620648db4e64d9b496a10cf268fa0e
-       Turn-Nr: 0213
+  [33] Conv-ID: 1a620648db4e64d9b496a10cf268fa0e
        Text:    ur the only person im talking 2
 
-  [36] Conv-ID: f2aeb162c373f0c4b0071b0cfe240b4e
-       Turn-Nr: 0732
+  [34] Conv-ID: f2aeb162c373f0c4b0071b0cfe240b4e
        Text:    willing to be a partner in creating a loving family. I can not promise bad things wont happen cause they do but if you have loving and caring people around you --- it will help so much.
 
-  [37] Conv-ID: 587f98804b6fdb508b038b16807e5556
-       Turn-Nr: 0572
+  [35] Conv-ID: 587f98804b6fdb508b038b16807e5556
        Text:    i didn't want you to think that i changed my mind because i don't like you because that is not the case
 
-  [38] Conv-ID: b55a5de9c419f52ed20a0f0312981071
-       Turn-Nr: 0667
+  [36] Conv-ID: b55a5de9c419f52ed20a0f0312981071
        Text:    naw I won't make you do anything you don't wanna
 
-  [39] Conv-ID: 279f7fc39610229a2804826e802be217
-       Turn-Nr: 0721
-       Text:    I know you are going to be sweet and soft and I love that
+  [37] Conv-ID: 4bfeca6d6dc7092caf519aed4f8a8355
+       Text:    ur the most beautiful girl in the whole world
 
-  [40] Conv-ID: a7694e34de0726cecee6df7fd9cb78f9
-       Turn-Nr: 0781
+  [38] Conv-ID: a7694e34de0726cecee6df7fd9cb78f9
        Text:    heh thanks for the concern hun
 
-  [41] Conv-ID: 2caf6376815018e869e035d6abd2188a
-       Turn-Nr: 0345
+  [39] Conv-ID: 2caf6376815018e869e035d6abd2188a
        Text:    I dont call anyone else sweetness!
 
-  [42] Conv-ID: e46bafdd1358a18fd608aef14f4c7999
-       Turn-Nr: 0128
-       Text:    why would you I would make you feel good
-
-  [43] Conv-ID: cfac30bed30bc0ed991787bdc42486b4
-       Turn-Nr: 0301
+  [40] Conv-ID: cfac30bed30bc0ed991787bdc42486b4
        Text:    sorry about that big lighting strike knocked out the power just now got me internet back up well hope you have a wondering day hope to talk to you latter on this evening hope you had some sweet dreams >:D<>:D<:-
 
-  [44] Conv-ID: ccc2f2f16c5aafb38e096f331d0e7801
-       Turn-Nr: 1221
+  [41] Conv-ID: ccc2f2f16c5aafb38e096f331d0e7801
        Text:    i was trying to chat with u like an hr and a half but u were away
 
-  [45] Conv-ID: 4c13916be6a79aa1a435b8d582ec616b
-       Turn-Nr: 1241
+  [42] Conv-ID: 4c13916be6a79aa1a435b8d582ec616b
        Text:    its sunday and just checking to see if u were around...ill check back in a lil while...
 
-  [46] Conv-ID: 2773d9d18e25ce86df70f0a71920ed42
-       Turn-Nr: 1244
-       Text:    so sleep good and have a good day tomorrow
+  [43] Conv-ID: 42abfbe45a4941f28252314f8aca2a9b
+       Text:    hi baby my meetings done i hope to hear from you soon i miss you i cant stop thinking of you
 
-  [47] Conv-ID: 4abbab9e5450b77902293004c64f8740
-       Turn-Nr: 1287
-       Text:    hello lil cupcake im off this weekend have a great day miss ya
+  [44] Conv-ID: cf6cafbf41d2bd9b32ca79f8d7a0c2d2
+       Text:    well u are cute too cory i mean i love everything about u and when i talk to u it dosent feel like im talking to
+   someone ur age and im glad i make u feel special i just look forward to talking to u everyday!
 
-  [48] Conv-ID: 4d8d6f069eed6fa2aa373a63527367d5
-       Turn-Nr: 1296
-       Text:    oh wow. you are very ver cute.
-
-  [49] Conv-ID: 21673624654858c4926fe8f1124f9d79
-       Turn-Nr: 1334
+  [45] Conv-ID: 21673624654858c4926fe8f1124f9d79
        Text:    no ill respect u iam not that way i dont take advantage of people
 
-  [50] Conv-ID: 97898ab47009fbe716ec1fdd5fb95990
-       Turn-Nr: 1370
+  [46] Conv-ID: 97898ab47009fbe716ec1fdd5fb95990
        Text:    wish i could give u a hug right now
 
-  [51] Conv-ID: 453351075e741f04b5caefae05bed818
-       Turn-Nr: 1373
-       Text:    i am wondering if i am missing u off and on hope talk 2 u soon. miss u and love u . Ty
+  [47] Conv-ID: 058aed70ca1f38d88e181e366c0c5620
+       Text:    because your worth it your special
+       
+  [48] Conv-ID: 74d3c00382c0e03fde9496e969c60b67
+       Text:    your eyes for one. there so mesmorizing i can get lost in them
+
+  [49] Conv-ID: 9c81d7ee686bc6047ac010d5a0a5ad50
+       Text:    Please leave your messenger running so I can contact more easily. I miss you!
+
+  [50] Conv-ID: 0b3185b09b832231aded5e04691b803c
+       Text:    so u can trust me i could of been their but i didnt
 
 
 ================================================================================
-  LABEL: INFORMATIONSGEWINNUNG  (52 Beispiele)
+  LABEL: INFORMATIONSGEWINNUNG  (50 Beispiele)
 ================================================================================
   [01] Conv-ID: e28a8e1a19b9f02483d4cd292b60698e
        Turn-Nr: 0003
        Text:    who takes you to the practice?Wh
 
   [02] Conv-ID: eac286c8350ee1bec4434f8678d5094b
-       Turn-Nr: 0009
        Text:    well i will try and find you but it would be faster if i knew more
 
   [03] Conv-ID: 1948dcb8c34daa2251b579d0d15df7ee
-       Turn-Nr: 0033
        Text:    do you have nosy neighbors or know everyone around
 
   [04] Conv-ID: d4d3735096812a7022ea372e96dd3d4b
-       Turn-Nr: 0097
        Text:    what is around the mcdonalds that u were at?
 
   [05] Conv-ID: b27448bee51787c6f4c7e3e159aa4a94
-       Turn-Nr: 0095
        Text:    do u know what ur address is of the palce u live at? lol
 
   [06] Conv-ID: a7851341719f38509c15ea3b13d58183
-       Turn-Nr: 0103
        Text:    you allowed to go out with older guys?
 
-  [07] Conv-ID: df1ce478186630df18d7018dd4a42432
-       Turn-Nr: 0130
-       Text:    so what are you wearing right now?
+  [07] Conv-ID: cb0e4b35b80847d23b1053a8efeea490
+       Text:    so what are your plans for the day?
 
   [08] Conv-ID: b698cc603ecde3704c1bd83a08b48558
-       Turn-Nr: 0132
        Text:    i wont i just wondered what city in michigan not your adress silly
 
-  [09] Conv-ID: 366858d9ac34d2688223df8719c1e331
-       Turn-Nr: 0157
-       Text:    all i know is you like takin pics of yourself
+  [09] Conv-ID: 77de2082be0ce90c828fb708a4ae6127
+       Text:    have u started having your period yet 
 
   [10] Conv-ID: 82d1514b6e415597011ecc17df05d365
-       Turn-Nr: 0190
        Text:    when was exact date of ur period?
 
   [11] Conv-ID: 6f5fb86532fb9f2484ee3d34b65fbcea
-       Turn-Nr: 0192
        Text:    is there any house close ur house?
 
   [12] Conv-ID: 63f2f3284a36e3a9e9b8f69c0d6d7236
-       Turn-Nr: 0271
        Text:    did ur dad tell any thing about the schedule?
 
   [13] Conv-ID: 21673624654858c4926fe8f1124f9d79
-       Turn-Nr: 0294
        Text:    iam m 40 greenfeild ohio and u
 
-  [14] Conv-ID: c31478dd3df8fa4c4e495d3ea45491fd
-       Turn-Nr: 0299
+  [14] Conv-ID: c9931fd684fabcca524468712b6fdace
        Text:    yeah what time is your mom leaving
 
   [15] Conv-ID: eeef827ce5a4e42032f9f2afee62c9cd
-       Turn-Nr: 0326
        Text:    when does ur mom get back sun night?
 
-  [16] Conv-ID: ba70770cd67b1264f858a1911bb68afa
-       Turn-Nr: 0343
-       Text:    Does your dad go on trip like this often?
+  [16] Conv-ID: ff91f5d20267c58f96c1a8a8d69ba227
+       Text:    can u get out at night on a weekend?
 
   [17] Conv-ID: 7148c41248cf217443a6982f72358e39
-       Turn-Nr: 0344
        Text:    what time does he go to work and get off
 
   [18] Conv-ID: a7694e34de0726cecee6df7fd9cb78f9
-       Turn-Nr: 0347
        Text:    Hehe good point...where is your dad? Are they separated?
 
   [19] Conv-ID: 21673624654858c4926fe8f1124f9d79
-       Turn-Nr: 0348
        Text:    what the biggest town close to u
 
   [20] Conv-ID: 0063692c957229db0816e0f240d7fa0d
-       Turn-Nr: 0353
        Text:    that sucks.You have any brothers or sisters?
 
   [21] Conv-ID: 366858d9ac34d2688223df8719c1e331
-       Turn-Nr: 0385
        Text:    how far is that chase bank from u
 
   [22] Conv-ID: 3a4e83ca43b4bfbb271718c0396f570e
-       Turn-Nr: 0409
        Text:    do the neighbors know who you there?
 
-  [23] Conv-ID: c6946993ad122e257091ba89d692d8dd
-       Turn-Nr: 0481
-       Text:    what time is your dad coming home tomorrow?
+  [23] Conv-ID: d9908d9adc847ce05db8496a1e1f3ff4
+       Text:    would you be able to get away>
 
   [24] Conv-ID: 4e75ca98a370592e175548e444f9b15e
-       Turn-Nr: 0489
        Text:    so u met on line? did he live close to you?
 
-  [25] Conv-ID: 4050c8031fd57776576a53e802a6c68b
-       Turn-Nr: 0502
-       Text:    Ur mom stl going to ny dis friday?u got clas?
+  [25] Conv-ID: db7833792cdb9ecb4486dfae5f15ea09
+       Text:    what do u do for fun there no 1 to hang with
 
   [26] Conv-ID: 3a4e83ca43b4bfbb271718c0396f570e
-       Turn-Nr: 0508
        Text:    ok... got it. how late can you stay out?
 
   [27] Conv-ID: bb6c34aad09295adb4881a13c44eba92
-       Turn-Nr: 0520
        Text:    why arent you going with your mom this weekend?
 
   [28] Conv-ID: 4ed6b02ae537fdfd6078597b706292a8
-       Turn-Nr: 0539
        Text:    u ever do stuff with an older guy b 4?
 
-  [29] Conv-ID: 87086d4f21f30392b29a38fbee495f2f
-       Turn-Nr: 0544
-       Text:    what time does mom get off work
+  [29] Conv-ID: bd49ea1e76331d271654861e430b62cc
+       Text:    well in order to come get you i have to know where u live!!!!...lol maybe give me your number or house address
+  that would work..
 
   [30] Conv-ID: 8d3da24f023ff1ec7c97ff59afbf3311
-       Turn-Nr: 0547
        Text:    so u gonna wait till your married to have sex?
 
-  [31] Conv-ID: 4889cd2ec072c9d38160bf0e3ddf5c03
-       Turn-Nr: 0563
-       Text:    did you find out if your ma is working late wednesday
+  [31] Conv-ID: 7443985129374f31e2fa4d96119facb6
+       Text:    hey how did you go to the store isn't your mom at work
 
-  [32] Conv-ID: b3c9935812d9c93f217c4b260683d98c
-       Turn-Nr: 0613
-       Text:    you problably havn't had sex before
+  [32] Conv-ID: a7694e34de0726cecee6df7fd9cb78f9
+       Text:    o it's you and your mom only living there? lol How does she trust you to stay home alone? Thats awesome
 
   [33] Conv-ID: 74d3c00382c0e03fde9496e969c60b67
-       Turn-Nr: 0616
        Text:    did you enjoy your first time?
 
-  [34] Conv-ID: db1f752d13b067120bee28576393c6f4
-       Turn-Nr: 0647
-       Text:    so how often u thought about me?
+  [34] Conv-ID: a28fbf4af521a2d06a41042d049be6e1
+       Text:    so what will happen if your not there when your parents get home?
 
-  [35] Conv-ID: bb695186816e0779e0849279e4269f63
-       Turn-Nr: 0685
-       Text:    ur dad will come back to ur apt..late nite or what
+  [35] Conv-ID: fa8f8574546c35ce376b8a9ee755839b
+       Text:    what time do u usually go to sleep
 
   [36] Conv-ID: 74d3c00382c0e03fde9496e969c60b67
-       Turn-Nr: 0708
        Text:    how did your parents react to you dating a 17 yr old
 
   [37] Conv-ID: ab9148b5c130f9c416fb33e02196a59a
-       Turn-Nr: 0711
        Text:    when does he come in your room?
 
   [38] Conv-ID: 74d3c00382c0e03fde9496e969c60b67
-       Turn-Nr: 0731
        Text:    so have you gone out with many guys?
 
-  [39] Conv-ID: 2a565bfd9b517ba6e6be2cdf1a937001
-       Turn-Nr: 0738
-       Text:    do you know how big your bf was?
+  [39] Conv-ID: baf423d86056e51f981ec13876934b10
+       Text:    nah i will be there, do you drive?
 
   [40] Conv-ID: efca4d4915c03ee42ee6f2fd4ffc10bd
-       Turn-Nr: 0747
        Text:    well when i go over there ur not gonna be close to getting ur period or anything like that right
 
   [41] Conv-ID: 6d7e4a095821a774480ca3a222b561be
-       Turn-Nr: 0755
        Text:    like they talked to u about virginity
 
   [42] Conv-ID: 4d8d6f069eed6fa2aa373a63527367d5
-       Turn-Nr: 0760
        Text:    so how many times have you kissed a guy?
 
   [43] Conv-ID: 74905ab63bb8b189c6700682ec86be1d
-       Turn-Nr: 0777
        Text:    any shots of u and friends or family?
 
-  [44] Conv-ID: 192fd9c174759fa4730350f07f2c9167
-       Turn-Nr: 0405
-       Text:    but your will be larger later on
+  [44] Conv-ID: 8e69130dfad036165245d3a8c17f9917
+       Text:    so, do u have a boyfriend in school?
 
   [45] Conv-ID: 2a8d475b2da31a0d43d8c3f745e84ecd
-       Turn-Nr: 0650
        Text:    did u tell ur friends they where leaving
 
-  [46] Conv-ID: 8e69130dfad036165245d3a8c17f9917
-       Turn-Nr: 0857
-       Text:    have u ever been fucked before?
+  [46] Conv-ID: 767eb6dbf083614275a895cc9c0f8878
+       Text:    give me your number we can talk for a while
 
   [47] Conv-ID: a2ae7876d8e6500f3e82a25abdca8023
-       Turn-Nr: 0922
        Text:    dont u and your mom get a long
 
-  [48] Conv-ID: df1ce478186630df18d7018dd4a42432
-       Turn-Nr: 0948
-       Text:    how long they gonna be gone for?
+  [48] Conv-ID: bbcf9de3e9686d2f1472b51f508027f3
+       Text:    o ok so what r u doing tonight
 
-  [49] Conv-ID: 4d8d6f069eed6fa2aa373a63527367d5
-       Turn-Nr: 0955
-       Text:    lol. so are both of your parents leaving or not?
+  [49] Conv-ID: a28fbf4af521a2d06a41042d049be6e1
+       Text:    hey what time do you have to be at school today?
 
   [50] Conv-ID: 2a565bfd9b517ba6e6be2cdf1a937001
-       Turn-Nr: 0968
        Text:    when did you say the last time you had sex was?
 
-  [51] Conv-ID: 77de2082be0ce90c828fb708a4ae6127
-       Turn-Nr: 1099
-       Text:    have u started having your period yet
-
-  [52] Conv-ID: d6e5bfa749792245507f251ed3edb7be
-       Turn-Nr: 1196
-       Text:    when do your rents go back to work?
-
 
 ================================================================================
-  LABEL: GEHEIMHALTUNG/ISOLATION  (51 Beispiele)
+  LABEL: GEHEIMHALTUNG/ISOLATION  (50 Beispiele)
 ================================================================================
   [01] Conv-ID: 65c0464e27a93c026f855aa5a26f63dc
-       Turn-Nr: 0045
        Text:    u relize if im told on ill go to jail ill never tell anyone
 
   [02] Conv-ID: 0063692c957229db0816e0f240d7fa0d
-       Turn-Nr: 0059
        Text:    can you hang on a sec someones here and I need to get rid of em
 
   [03] Conv-ID: 5c1d2d3b42ecb3e5eaaeecac8cf40f3f
-       Turn-Nr: 0072
        Text:    tell him it was the rong number
 
   [04] Conv-ID: 6d7e4a095821a774480ca3a222b561be
-       Turn-Nr: 0114
        Text:    between us..we can keep going if u like
 
   [05] Conv-ID: 23adb061e0e68ef692bd1d50f1d5140c
-       Turn-Nr: 0204
        Text:    dress is not a good idea because mom or dad can ask u from where u got it
 
   [06] Conv-ID: 92b45899d62dbf4229cfc39b31cd7028
-       Turn-Nr: 0225
        Text:    if someone saw you out or if your aunt come home early
 
   [07] Conv-ID: 23985b7ce37b9ad8fcdfd5b5337e92d4
-       Turn-Nr: 0245
        Text:    is there a window you can see out to see if she pulls up
 
   [08] Conv-ID: be270f6b4117a098bfa65567b35dcaa5
-       Turn-Nr: 0254
        Text:    u r younger i have to be carful
 
   [09] Conv-ID: 32433e805a30c85836afe93b1fc8e13f
-       Turn-Nr: 0274
        Text:    you know your mom has been at the store for a really long time
 
   [10] Conv-ID: a078991be850f9813030847e884e1abe
-       Turn-Nr: 0276
        Text:    hun do you delet your talks so she can't find them?
 
   [11] Conv-ID: 97cfcf5712c69bd47737cb96f7db90e1
-       Turn-Nr: 0327
        Text:    ok she's gone,and we have all the time we want is right..
 
   [12] Conv-ID: b0af6199c44e67911a9f32e66c5f2f8f
-       Turn-Nr: 0332
        Text:    cause something like this is not supposed to happen a guy my age talking to a girl ur age
 
   [13] Conv-ID: 394b0d1ff993fc2e92edfb2f71009e9a
-       Turn-Nr: 0340
        Text:    thats good so ur parents are leaving for sure
 
   [14] Conv-ID: 57fac62074b0602711bf4ba54806f146
-       Turn-Nr: 0349
        Text:    you won't tell anyone I am having sex with you, right baby?
 
   [15] Conv-ID: 567b33a63ab4a8b38c841a4b962e3e3b
-       Turn-Nr: 0381
        Text:    and it would b hard for us to get caught right
 
   [16] Conv-ID: 32433e805a30c85836afe93b1fc8e13f
-       Turn-Nr: 0388
        Text:    you want a pic, description, and what kind of car i drive and what i will be wearing so it will be totally easy to bust me, duuuuh
 
   [17] Conv-ID: 6038f9115c1c9da81e7e6c2d7319ad27
-       Turn-Nr: 0412
        Text:    make sure ur friend's mom dont see me
 
   [18] Conv-ID: 313e8f0dc3ae02ccd3c3d9712dfd5b6b
-       Turn-Nr: 0443
        Text:    i cant share or nething remember
 
   [19] Conv-ID: 57fac62074b0602711bf4ba54806f146
-       Turn-Nr: 0453
        Text:    well you can wait til I shut the door
 
   [20] Conv-ID: 1f4473239b82532e3811d22b9207120a
-       Turn-Nr: 0454
        Text:    if we were to go out and sombody asked anything about us we tell them that we are sister and brother is that ok with u
 
   [21] Conv-ID: ee49747589d746baf12b33d739dc3436
-       Turn-Nr: 0465
        Text:    my luck will be the time someone finds out
 
   [22] Conv-ID: 57fac62074b0602711bf4ba54806f146
-       Turn-Nr: 0504
        Text:    no one will see you go in my room will they?
 
   [23] Conv-ID: 83d02741da50d8a84485cb8d0cb39b88
-       Turn-Nr: 0510
        Text:    i dont want ur mom seeing me anyway
 
   [24] Conv-ID: 87086d4f21f30392b29a38fbee495f2f
-       Turn-Nr: 0533
        Text:    you would get me in trouble that is what I was asking???
 
   [25] Conv-ID: cb0e4b35b80847d23b1053a8efeea490
-       Turn-Nr: 0543
        Text:    lol I'm not sure, I'd have to make sure they dont see
 
   [26] Conv-ID: cc5e20950135f4048bfe6c68ac42118d
-       Turn-Nr: 0553
        Text:    are you certain she's not coming home tonight?
 
   [27] Conv-ID: 8d517d58a223c8913f44af0e65eb1b05
-       Turn-Nr: 0564
        Text:    no one will be checking up on you?
 
   [28] Conv-ID: b7e0d6ec92780e52ef405688310c86b2
-       Turn-Nr: 0567
        Text:    you're not gonna get in trouble?
 
   [29] Conv-ID: 177f184ef6984565c26912b9ec684bc0
-       Turn-Nr: 0609
        Text:    if they ask u to view them dont ok
 
   [30] Conv-ID: abc43c5823237b11c7ae0a6261111ce6
-       Turn-Nr: 0649
        Text:    i just hope this isnt some setup like u see on tv where they arres the guy for going to see underage girls
 
   [31] Conv-ID: 0ec23465d064ab518e57bc456050c88f
-       Turn-Nr: 0671
        Text:    if i play with ya n get caught but we wont
 
   [32] Conv-ID: dd2d3eebe818af215d51c5d336ae7d6d
-       Turn-Nr: 0674
        Text:    is that a good private spot or is there better
 
   [33] Conv-ID: b55a5de9c419f52ed20a0f0312981071
-       Turn-Nr: 0726
        Text:    she don't have neighbors keep on eye on you
 
   [34] Conv-ID: 65c0464e27a93c026f855aa5a26f63dc
-       Turn-Nr: 0728
        Text:    we wont get caught make sure u delete this stuff
 
-  [35] Conv-ID: 32433e805a30c85836afe93b1fc8e13f
-       Turn-Nr: 0767
-       Text:    not to mention thats it is totally wrong to be interested romantically or sexually with a 13 yo girl
+  [35] Conv-ID: 4af7f129024ede0a1371f8f751c9b569
+       Text:    you could get your mom to take you to see a movie matinee today and tell her you were going to meet a girl
+  friend and i could meet you
 
   [36] Conv-ID: c3ea47a37ed45af154c62219943ed112
-       Turn-Nr: 0789
        Text:    u wouldnt do something like that right
 
-  [37] Conv-ID: 95539910a8fe6035ecdded42181c5ab3
-       Turn-Nr: 0546
-       Text:    ur underage i have never done anybody underage before
+  [37] Conv-ID: 0ac2fa8683fcd60908a740f8d316ccc7
+       Text:    if u do tell them it was someone your age ok
 
   [38] Conv-ID: 30300c9099cf068edebbd8b0a341e493
-       Turn-Nr: 0956
        Text:    we can keep on the low if ya want
 
   [39] Conv-ID: 0a24d01229e3f70427171383a75f0851
-       Turn-Nr: 0972
        Text:    they arrested guy's going to meet 13 yr old girl they chatted with on the web
 
   [40] Conv-ID: 57fac62074b0602711bf4ba54806f146
-       Turn-Nr: 1066
        Text:    Cindy, do you want to be my secret lover?
 
   [41] Conv-ID: 769976e3056e3b48e7c84b03415b391f
-       Turn-Nr: 1085
        Text:    can you see it without your aunt seeing it/
 
   [42] Conv-ID: 5d3aa5f6d41ca60a72da1657ca42024a
-       Turn-Nr: 1132
        Text:    so have u told anybody about us?
 
   [43] Conv-ID: f03e729ef6ce077d9bdb238c91068b2f
-       Turn-Nr: 1148
        Text:    yep...don't tell nobody okay...
 
   [44] Conv-ID: 1ac8120656883a70db1267d8dc31710d
-       Turn-Nr: 1155
        Text:    you won't say anything if we do something right?
 
   [45] Conv-ID: 3ed16b22202499d452c229538a18ca8c
-       Turn-Nr: 1483
        Text:    sami it will be ok if i go see u xtra neighbores wont say anything to your mom
 
   [46] Conv-ID: 180bceebacb5f1bcadebb4ca4447a4e1
-       Turn-Nr: 1494
        Text:    after you call n tell me he is gone
 
   [47] Conv-ID: 82d1514b6e415597011ecc17df05d365
-       Turn-Nr: 1520
        Text:    make sure that ur dad will not u on Saturday night
 
   [48] Conv-ID: 6d7e4a095821a774480ca3a222b561be
-       Turn-Nr: 1523
        Text:    thought if u all close friends...maybe share some secrets
 
   [49] Conv-ID: 6d7e4a095821a774480ca3a222b561be
-       Turn-Nr: 1538
        Text:    r u sure mom wont call when u dont have school
 
   [50] Conv-ID: cd3d40abb1dd3b26e0d4d51104946b5f
-       Turn-Nr: 1562
        Text:    im just saying cause ur mom might tell u to get off
-
-  [51] Conv-ID: 8d3da24f023ff1ec7c97ff59afbf3311
-       Turn-Nr: 1572
-       Text:    yea i wouldnt want o get ya in trouble
 
 
 ================================================================================
   LABEL: SEXUALISIERUNG  (51 Beispiele)
 ================================================================================
   [01] Conv-ID: 70847016e3149ac5e7baed88376b1a56
-       Turn-Nr: 0006
        Text:    take your lil pants down and put 4 fingers in t hats what it will feel like
 
   [02] Conv-ID: 0d33b538cb3282a9d5597f0345573e4b
-       Turn-Nr: 0016
        Text:    HEY. Im the early bird today... lol Oh my head hurts. Hope this coffee helps. Have a great day baby!! pet that pussy 4 me
 
   [03] Conv-ID: 0063692c957229db0816e0f240d7fa0d
-       Turn-Nr: 0027
        Text:    we can do all kinds of it if it makes you wet
 
   [04] Conv-ID: 22a9ef8629aa10e43753f7d4ec9963c7
-       Turn-Nr: 0044
        Text:    then we can try it inyour ass like that too
 
   [05] Conv-ID: 8e69130dfad036165245d3a8c17f9917
-       Turn-Nr: 0055
        Text:    did the guy u went down on have a really big dick?
 
   [06] Conv-ID: 252263ecb596d7e2eb2422b8ee2459b9
-       Turn-Nr: 0076
        Text:    so do you know what ur sexiest panties are
 
   [07] Conv-ID: c2504300a8c130b0f6f043785a4b5355
-       Turn-Nr: 0080
        Text:    i want to a naked picture of you
 
   [08] Conv-ID: 3c5b23be32bbe84c29f13625e803725f
-       Turn-Nr: 0104
        Text:    lol i didn't even ahve enough time to get u wet :( lol
 
   [09] Conv-ID: baf423d86056e51f981ec13876934b10
-       Turn-Nr: 0106
        Text:    you are gonna be wet as fuck when i am done with you
 
   [10] Conv-ID: 086f808b540617b30eb2be8053a8172e
-       Turn-Nr: 0124
        Text:    if not i'll finger it for u when u get here and show u how
 
   [11] Conv-ID: fa8f8574546c35ce376b8a9ee755839b
-       Turn-Nr: 0133
        Text:    not a bad thing esp.w/you hot and sweatty
 
   [12] Conv-ID: dfdef860af7196553076a1e4fa63a0ee
-       Turn-Nr: 0137
        Text:    then i will lick your hole and promise your going to like it
 
   [13] Conv-ID: 1e2b66c21c9bc767042b4246175f2ab4
-       Turn-Nr: 0148
        Text:    so you getting big boobs or not?
 
   [14] Conv-ID: 531c7a865efa9ec62dca06ba52c00bb0
-       Turn-Nr: 0151
        Text:    then ill tie u up and fuck u hard
 
   [15] Conv-ID: f6f7a580eddc7a9f62b889a4aeb8102e
-       Turn-Nr: 0167
        Text:    wish you at least had naughty pics to give me
 
   [16] Conv-ID: 9422732ae20d7f3e378b1707f8e13304
-       Turn-Nr: 0168
        Text:    would u want me to put it in u?
 
   [17] Conv-ID: 31a03363da7f4de37d1dbb223310e966
-       Turn-Nr: 0231
        Text:    what position would you want to fuck with me the most in
 
   [18] Conv-ID: 573c2a2bce882855bedb1d16057e272c
-       Turn-Nr: 0236
        Text:    it is like kissing the privates
 
   [19] Conv-ID: 6038f9115c1c9da81e7e6c2d7319ad27
-       Turn-Nr: 0246
        Text:    and u can suck my cock all u want
 
   [20] Conv-ID: 20be9af4e89228746cb37783c75dab27
-       Turn-Nr: 0255
        Text:    Would you put it in your mouth?
 
   [21] Conv-ID: e1a1fd9c6a9f4b511633897f914c8074
-       Turn-Nr: 0256
        Text:    who needs cloths, u r fine naked and wet..lol
 
   [22] Conv-ID: 531c7a865efa9ec62dca06ba52c00bb0
-       Turn-Nr: 0282
        Text:    would u watch me and him touch each other?
 
   [23] Conv-ID: a28fbf4af521a2d06a41042d049be6e1
-       Turn-Nr: 0311
        Text:    what would u do if i wanted tocum in you?
 
   [24] Conv-ID: 3c64110fa471aea3a30041a8439b9930
-       Turn-Nr: 0318
        Text:    i want to make love to you all weekend
 
   [25] Conv-ID: b7e0d6ec92780e52ef405688310c86b2
-       Turn-Nr: 0323
        Text:    I want to sleep with my penis inside your pussy
 
   [26] Conv-ID: fb694a2db2dc6a2f63e46c70912aceca
-       Turn-Nr: 0355
        Text:    do u like looking at the pic of my cock?
 
   [27] Conv-ID: 02e8e07bcb260c4d3bd272d5a4a70a69
-       Turn-Nr: 0364
        Text:    why do i get hard just talking 2 u baby
 
   [28] Conv-ID: 838fbfecc2157e1f1caa321403c58ad2
-       Turn-Nr: 0366
        Text:    is your pussy getting wet thinking of that
 
   [29] Conv-ID: fe043d088295a0e9dac9be12abe53745
-       Turn-Nr: 0368
        Text:    to bad I would like to coach you on the finer points of masturbating
 
   [30] Conv-ID: 192fd9c174759fa4730350f07f2c9167
-       Turn-Nr: 0370
        Text:    can i do finger fuck if you like
 
   [31] Conv-ID: b6bbe2fb94b5ad8bc72030e7723c030c
-       Turn-Nr: 0372
        Text:    watching videos of girls sucking hehe
 
   [32] Conv-ID: a2ae7876d8e6500f3e82a25abdca8023
-       Turn-Nr: 0458
        Text:    im going to eat that sweet pussy like u never had it eaten before
 
   [33] Conv-ID: fd177a2bb631795e2064cdf87e501180
-       Turn-Nr: 0462
        Text:    and you can squeeze my cock and stroke it
 
-  [34] Conv-ID: 10c41d7d1915016b6d24f9ed7a50f4fb
-       Turn-Nr: 0471
-       Text:    hmm so if i ask u when i show up to suck my dick as i stand whould u do it
+  [34] Conv-ID: 67f632da724fc118e4358d957da6ec19
+       Text:    u want me to bring some porn to watch?
 
   [35] Conv-ID: 9ecc7bc0e4e6b3139c31591cae9db65f
-       Turn-Nr: 0473
        Text:    every pussy cant take a dick this big so i have to find out first if u can take it
 
   [36] Conv-ID: 059c561ebf7e4172d3434d56b984b5ae
-       Turn-Nr: 0495
        Text:    so you played with your fingers....
 
-  [37] Conv-ID: 9422732ae20d7f3e378b1707f8e13304
-       Turn-Nr: 0555
-       Text:    do u just rub it or put ur fingers in it?
+  [37] Conv-ID: 73f1a56bbd6a74f0fcbb41c7d1099988
+       Text:    so have u been thinking about when i showed u my cock on my cam?
 
   [38] Conv-ID: fe043d088295a0e9dac9be12abe53745
-       Turn-Nr: 0566
        Text:    so will you feel your self for me while im on cam?
 
   [39] Conv-ID: 84df67c9a7a3e2f55772cf9920f4cf0b
-       Turn-Nr: 0587
        Text:    well with you sitting on my lap i would let you feel how hard and big i am
 
   [40] Conv-ID: 4f2be4b4388781fefaa94e6f7d45de6c
-       Turn-Nr: 0590
        Text:    your breasts will be very hard
 
   [41] Conv-ID: 67f632da724fc118e4358d957da6ec19
-       Turn-Nr: 0592
        Text:    do you want me to cum anywhere specific?
 
   [42] Conv-ID: ab9148b5c130f9c416fb33e02196a59a
-       Turn-Nr: 0628
        Text:    not but but and vagina or justy vagina
 
   [43] Conv-ID: 6c00e76dd8c1a73917f2c70fe04111a2
-       Turn-Nr: 0656
        Text:    U going to sleep naked with me?
 
   [44] Conv-ID: f89fc1b865715fb22b433073c6a7ad9b
-       Turn-Nr: 0659
        Text:    can I take off your panties???
 
   [45] Conv-ID: 52f971d982abe2f6462804bac415cfeb
-       Turn-Nr: 0718
        Text:    yes,private so I can eat your pussy real good and then fuck you
 
   [46] Conv-ID: c93218ad7a9f0f834b319064be9ec904
-       Turn-Nr: 0722
        Text:    if you saw that I had a hard on while in the pool with you what would you do
 
   [47] Conv-ID: 74905ab63bb8b189c6700682ec86be1d
-       Turn-Nr: 0727
        Text:    think u could handle 9 inches?
 
   [48] Conv-ID: 95d4013ecbabe7c6eb2e7fb0d712fc04
-       Turn-Nr: 0742
        Text:    actually im looking forward to regular sex and how good u are at giving head
 
-  [49] Conv-ID: 84df67c9a7a3e2f55772cf9920f4cf0b
-       Turn-Nr: 0766
-       Text:    then i would slide your underwear off
+  [49] Conv-ID: f99999db76429920c70cf1614fcdda4b
+       Text:    i want to stick my tongue up your ass to get it nice and wet then try to slip the tip of my cock into it
 
   [50] Conv-ID: 059c561ebf7e4172d3434d56b984b5ae
-       Turn-Nr: 0771
        Text:    when you masturbate you know what to do
 
   [51] Conv-ID: d6e40bdaa30d90f869076732e2044a3a
-       Turn-Nr: 0799
        Text:    i would like for u to take a pic of your pussy for me
 
 
 ================================================================================
   LABEL: KONTROLLE/NOETIGUNG  (44 Beispiele)
 ================================================================================
-  [01] Conv-ID: f29cd1cb5e7fe83ff55cf6e07e469676
-       Turn-Nr: 0714
-       Text:    I can c u at skool & wen u alone
+  [01] Conv-ID: 83d02741da50d8a84485cb8d0cb39b88 
+       Text:    ur gonna be a pain in my ass arent u
 
   [02] Conv-ID: 9ecc7bc0e4e6b3139c31591cae9db65f
-       Turn-Nr: 0078
        Text:    will u do it the next time lil slut?
 
   [03] Conv-ID: a28fbf4af521a2d06a41042d049be6e1
-       Turn-Nr: 0261
        Text:    so what if i decide i want to keep you here all day?
 
-  [04] Conv-ID: 95539910a8fe6035ecdded42181c5ab3
-       Turn-Nr: 0329
-       Text:    you need to promise i wont get in trouble
+  [04] Conv-ID: ab9148b5c130f9c416fb33e02196a59a
+       Text:    im the man and you need to do what i ask:)
 
   [05] Conv-ID: 9d3a3791e48a8a6daac3e768b7c384ed
-       Turn-Nr: 0378
        Text:    your making me feel like shit now im just gonna go
 
   [06] Conv-ID: 9ecc7bc0e4e6b3139c31591cae9db65f
-       Turn-Nr: 0396
        Text:    well wear 1 of them for me lil slut
 
   [07] Conv-ID: c6946993ad122e257091ba89d692d8dd
-       Turn-Nr: 0427
        Text:    remember to wear a skirt for me ok?
 
   [08] Conv-ID: 7148c41248cf217443a6982f72358e39
-       Turn-Nr: 0452
        Text:    so you know ill be hurting you
 
   [09] Conv-ID: a28fbf4af521a2d06a41042d049be6e1
-       Turn-Nr: 0557
        Text:    and you can stay my good girl?
 
   [10] Conv-ID: 70847016e3149ac5e7baed88376b1a56
-       Turn-Nr: 0608
        Text:    yea but i know i would hurt you if i had sex wit you
 
   [11] Conv-ID: 23985b7ce37b9ad8fcdfd5b5337e92d4
-       Turn-Nr: 0619
        Text:    sweetie please just let me come there
 
   [12] Conv-ID: 67f632da724fc118e4358d957da6ec19
-       Turn-Nr: 0633
        Text:    so sat night, around 9 or so, be ready for me
 
   [13] Conv-ID: 23985b7ce37b9ad8fcdfd5b5337e92d4
-       Turn-Nr: 0638
        Text:    i am not being like anything....i do not have time to run all over turn to a motel and stuff....you said i could come there and now you are changing the whole thing
 
-  [14] Conv-ID: 83e744012d7c26b39ba4e04277da056a
-       Turn-Nr: 0712
-       Text:    I guess you don't want to talk to me any more
+  [14] Conv-ID: 6038f9115c1c9da81e7e6c2d7319ad27
+       Text:    u wont make me jealous would u ?
 
-  [15] Conv-ID: 963ebd7a4acb529aa3c60ade4b3047ca
-       Turn-Nr: 0754
-       Text:    for a ticket what do u want from me
+  [15] Conv-ID: c05d5c99087e67891d6504f8dd285ec0
+       Text:    since it will be dark out now u going to do what I asked
 
   [16] Conv-ID: d30afa2aeebc938451a1acb3b838b590
-       Turn-Nr: 0469
        Text:    u going to see some other guy?
 
   [17] Conv-ID: 0e44e8d2dc343e9c3843b8ecf81f64fa
-       Turn-Nr: 0758
        Text:    is that room clean and homework done?
 
-  [18] Conv-ID: d80caf5cf5fb6428173e330ccca58da2
-       Turn-Nr: 0788
-       Text:    I will do anything you want me to do
+  [18] Conv-ID: 9f5f67e677b93fce2561bb8a45cf66cd 
+       Text:    no ill only be mad if u lie 2 me as long as ur honest im happy
 
   [19] Conv-ID: 23985b7ce37b9ad8fcdfd5b5337e92d4
-       Turn-Nr: 0191
        Text:    no then you might really get in trouble
 
   [20] Conv-ID: 1a825cb990abb181fd72c6d13bb6dfae
-       Turn-Nr: 0237
        Text:    these rooms are not suitable for girl like you
 
   [21] Conv-ID: 32433e805a30c85836afe93b1fc8e13f
-       Turn-Nr: 0375
        Text:    you have no clue really , about who or what i am
 
   [22] Conv-ID: 23985b7ce37b9ad8fcdfd5b5337e92d4
-       Turn-Nr: 0516
        Text:    what is the big deal about me coming there
 
-  [23] Conv-ID: 9ecc7bc0e4e6b3139c31591cae9db65f
-       Turn-Nr: 0814
-       Text:    r u takin those 3 fingers good lil slut?
+  [23] Conv-ID: c169076bcf41b100447ce9bebc517d29 
+       Text:    ok when i say pick up the phone
 
-  [24] Conv-ID: 9ecc7bc0e4e6b3139c31591cae9db65f
-       Turn-Nr: 0820
-       Text:    i'll say wear the skirt lil slut
+  [24] Conv-ID: c05d5c99087e67891d6504f8dd285ec0  
+       Text:    you never called or answered like you said u were
 
   [25] Conv-ID: ab9148b5c130f9c416fb33e02196a59a
-       Turn-Nr: 0838
        Text:    you need to show dad or stick somthing inside of you
 
   [26] Conv-ID: 6b409cf9546047c74b235d3d41d85acc
-       Turn-Nr: 0878
        Text:    what shirt will you wear for me with your skirt?
 
   [27] Conv-ID: 2c9f8c402241ac6cbc6ea7e6268a29da
-       Turn-Nr: 0895
        Text:    if i told you to do something would you?
 
   [28] Conv-ID: ca4a57245f086fabea0470efceb0a653
-       Turn-Nr: 0903
        Text:    im sorry but im not comming! Good bye!
 
   [29] Conv-ID: 366858d9ac34d2688223df8719c1e331
-       Turn-Nr: 0904
        Text:    yer just thinkin about yourself
 
   [30] Conv-ID: de6b31c24dbb33dbcf43936f79d12767
-       Turn-Nr: 0919
        Text:    nobody loves me or cares about me
 
   [31] Conv-ID: 3ace6db21d61ae35ac8f8c6cd6d7bab4
-       Turn-Nr: 0937
        Text:    u better get to sleep soon though if we are gonna fool around later
 
   [32] Conv-ID: 53683e4aafabd53e55c3529b8b3f1245
-       Turn-Nr: 0943
        Text:    will u anwser the door with justa bra and that red thong on for me that would be so hot
 
   [33] Conv-ID: 9f5f67e677b93fce2561bb8a45cf66cd
-       Turn-Nr: 0966
        Text:    did u do what i wanted you to do today
 
   [34] Conv-ID: 531c7a865efa9ec62dca06ba52c00bb0
-       Turn-Nr: 0978
        Text:    yes, and u know ill go to jail even if u never tell on me and u want it
 
   [35] Conv-ID: 2117524b1664ee40dbb00f52c8bbe22b
-       Turn-Nr: 1000
        Text:    i love you, can u do me a favor???
 
   [36] Conv-ID: 12b094b9dbace69e9c1da7933300af7e
-       Turn-Nr: 1012
        Text:    I guess you decided not to call
 
   [37] Conv-ID: a4afe27b89696096b327e78d5b8bb973
-       Turn-Nr: 1060
        Text:    I oughta put you over my knee and  ya!!
 
   [38] Conv-ID: ff91f5d20267c58f96c1a8a8d69ba227
-       Turn-Nr: 1072
        Text:    well tell me what you do know and what you would like to do...and dont say idk :-P
 
-  [39] Conv-ID: 3b9018ee35c1acc518c18c40e5e8d1d6
-       Turn-Nr: 1091
-       Text:    just inform him that u r going to stay here thats all right
+  [39] Conv-ID: 44980f4b22af122442c655d99e8999a2
+       Text:    no boys can play around with you........just be strong young lady
 
   [40] Conv-ID: e7386218c6156c9845ef223e782c06fe
-       Turn-Nr: 1094
        Text:    if your not gonna tell i can just leave you alone them
 
   [41] Conv-ID: 2f2b372c0cfe63f96a83ffaaa37a6be3
-       Turn-Nr: 1109
        Text:    u were suppose to say u gotta have me! lol
 
   [42] Conv-ID: c0b5f0e423eff3de87af4c1b117db3e5
-       Turn-Nr: 1112
        Text:    you don't trust me anymore do you
 
-  [43] Conv-ID: bd0332b67e1ff6a51eb07f9ab67c8f65
-       Turn-Nr: 1120
-       Text:    im sad and hurt please dont hate me
+  [43] Conv-ID: ab9148b5c130f9c416fb33e02196a59a 
+       Text:    if you want it you better prove it to me
 
   [44] Conv-ID: 9ecc7bc0e4e6b3139c31591cae9db65f
-       Turn-Nr: 1160
        Text:    nah u never told me that lil slut
 
 
@@ -1226,206 +915,155 @@
   LABEL: OFFLINE-ESKALATION  (51 Beispiele)
 ================================================================================
   [01] Conv-ID: 6dba8637e65eeac775e02502e595f5bf
-       Turn-Nr: 0008
        Text:    Ok il see if i cud go after she leaves by 12
 
   [02] Conv-ID: e7386218c6156c9845ef223e782c06fe
-       Turn-Nr: 0015
        Text:    yea cause you can convince me to come there
 
   [03] Conv-ID: 03d73732c040277553a91b26d3f2ddb1
-       Turn-Nr: 0023
        Text:    im still lookin forward to hangin out too
 
   [04] Conv-ID: 83d02741da50d8a84485cb8d0cb39b88
-       Turn-Nr: 0036
        Text:    then we can have a beeter idea where 2 meet, u will be home then wont u
 
   [05] Conv-ID: 531c7a865efa9ec62dca06ba52c00bb0
-       Turn-Nr: 0061
        Text:    and u want me to come over one of these days?
 
-  [06] Conv-ID: f708538723c449d929422165599100d5
-       Turn-Nr: 0062
-       Text:    im leaving call me if u can ill be back on later
+  [06] Conv-ID: a1d8e41ed11c470db0dc2ccc0f23be57
+       Text:    can ya sneak out...or will that get ya into trouble 
 
   [07] Conv-ID: 82d1514b6e415597011ecc17df05d365
-       Turn-Nr: 0069
        Text:    no. i will come to ur home first
 
   [08] Conv-ID: 6fbc1fcc570d23cdad6dbd43d6de9c0a
-       Turn-Nr: 0073
        Text:    cause i think im gonna go tanning to real quick before i come over
 
   [09] Conv-ID: 393d66dbc5a5b38e1c9f81577374c3d9
-       Turn-Nr: 0075
        Text:    like gimme ur phone number or something then ok
 
   [10] Conv-ID: 629a3f3a95f4d4253f0def5f6e4434f6
-       Turn-Nr: 0081
        Text:    so you want me to show up early?
 
   [11] Conv-ID: a7851341719f38509c15ea3b13d58183
-       Turn-Nr: 0085
        Text:    when and how can you that....will your parent freak out if someone picks you up?
 
   [12] Conv-ID: 173fdbdef393a7a7ed6d8a9ce1d758f0
-       Turn-Nr: 0093
        Text:    we would have like an hour til u had 2 go
 
   [13] Conv-ID: e03f7eb24b3b155644e6cf7481f0939e
-       Turn-Nr: 0094
        Text:    and definately on saturday u will in my arms
 
   [14] Conv-ID: d3c0cf788c8ecd0632b9ed1deaf594df
-       Turn-Nr: 0125
        Text:    next weekend I could stay 4-5 hours
 
   [15] Conv-ID: 2b98ad945c6ad62c24f8200e436afdc3
-       Turn-Nr: 0129
        Text:    can I stay at your house overnight if i go?
 
   [16] Conv-ID: 67f632da724fc118e4358d957da6ec19
-       Turn-Nr: 0134
        Text:    remember u still gotta give me the address so i can get there
 
   [17] Conv-ID: 57fac62074b0602711bf4ba54806f146
-       Turn-Nr: 0143
        Text:    you have to show me where these places are
 
   [18] Conv-ID: c234482c6c491426e974f0db691c3cf5
-       Turn-Nr: 0147
        Text:    cool....then we have an online date at 10 tomorrow....and if all goes well we will see each other in person shortly after that!
 
   [19] Conv-ID: 6fbc1fcc570d23cdad6dbd43d6de9c0a
-       Turn-Nr: 0159
        Text:    you want me to come over cutie sorryi was sleeping i woke up early this morning
 
   [20] Conv-ID: acb33178e7330fa916f7e5bd251fc606
-       Turn-Nr: 0163
        Text:    it'll be more fun in person....;)
 
   [21] Conv-ID: 2be1c9f0a41e87af905a76609c733619
-       Turn-Nr: 0166
        Text:    hey girl, I'm getting ready to go. I'll be leaving at 2. :) call me at 5:30, I should be there or almost there. Bye
 
   [22] Conv-ID: f9647f68d20ef8425f19cece8b31a7b7
-       Turn-Nr: 0180
        Text:    i may park around the corner better
 
   [23] Conv-ID: 5683a11882743a54851bab2eb119f284
-       Turn-Nr: 0206
        Text:    i had picked up a ticket for this thursday to come to see u
 
   [24] Conv-ID: 95539910a8fe6035ecdded42181c5ab3
-       Turn-Nr: 0212
        Text:    i can come get u then get a room tomorrow if you can be close
 
   [25] Conv-ID: a28fbf4af521a2d06a41042d049be6e1
-       Turn-Nr: 0214
        Text:    will you give me a call around 1130?
 
   [26] Conv-ID: a28fbf4af521a2d06a41042d049be6e1
-       Turn-Nr: 0217
        Text:    so can i pick you up or is it to late
 
   [27] Conv-ID: 4d8d6f069eed6fa2aa373a63527367d5
-       Turn-Nr: 0221
        Text:    so can i come over right now? ;)
 
   [28] Conv-ID: fe7bdb47bf11ac2e64d7ed776b51cc8f
-       Turn-Nr: 0242
        Text:    So maybe......I'm cummin down there in about 3 weeks
 
   [29] Conv-ID: 536522ca4f865c17ffe44e9c73c5b36e
-       Turn-Nr: 0248
        Text:    Mit me later crner  and  ok?i dnt want to get lost
 
   [30] Conv-ID: 137ae99e0f6b1cbe63e865bfb1505291
-       Turn-Nr: 0266
        Text:    so, do u want me to be there at 12 : 30
 
   [31] Conv-ID: 0307091724896a50d827c702f8eb3280
-       Turn-Nr: 0268
        Text:    586-565-1790 call me so i know i can call you :-P
 
   [32] Conv-ID: 9563e3b1a52630a00486a03402947ae9
-       Turn-Nr: 0273
        Text:    i'll be leaving here around 1230,i have my clothes drying..but i am commin sweety
 
   [33] Conv-ID: bca4e1710c91060835515ef73e2a0260
-       Turn-Nr: 0304
        Text:    hey, I'll probably leave at 2 from here, so I should be there close to 6. If you want call me around 5:45 or so. :)
 
   [34] Conv-ID: 1c3b858b1611d585f45497fe8e03e6b0
-       Turn-Nr: 0320
        Text:    I'll be there by around 7:30~8pm ish
 
   [35] Conv-ID: c6946993ad122e257091ba89d692d8dd
-       Turn-Nr: 0350
        Text:    ok i thik i can do this if you let me wait til 745-8pm, after my movie i can come down ill be there around 830 and come to your house? and we can be together until around 11-12 midnight and i can come back here and still be able to get a few hrs sleep for church in AM, does thatsound ok with you?
 
-  [36] Conv-ID: 629a3f3a95f4d4253f0def5f6e4434f6
-       Turn-Nr: 0358
-       Text:    just want to hear your voice one more time
+  [36] Conv-ID: 12cfa310b49d9dd3bf9b8cc44c52abde
+       Text:    U comin outside.? Meet me at tha stop sign
 
   [37] Conv-ID: ab51fb272b302a2e184c4150c4e810c7
-       Turn-Nr: 0359
        Text:    if you are off school tomorrow call me up 714 357 6806 I'm corey if I don't answer I'll call you back
 
   [38] Conv-ID: 0bb767113c89822a1a1dd05723c9fe85
-       Turn-Nr: 0367
        Text:    This evening for sure! maybe around 8:30.
 
   [39] Conv-ID: 60983a381ef3baa4fe44dfd53b290cb2
-       Turn-Nr: 0373
        Text:    ok at least write down the number
 
   [40] Conv-ID: 972ec294a7c9c7798bcd2ceefd920f2e
-       Turn-Nr: 0374
        Text:    what was number,, so I can call when I am close
 
   [41] Conv-ID: 0328353f62ac862ce177b598b6620684
-       Turn-Nr: 0383
        Text:    hey if u can call me ok 248 669 6466
 
   [42] Conv-ID: 3b9018ee35c1acc518c18c40e5e8d1d6
-       Turn-Nr: 0386
        Text:    gi'me your number I'll dail u rite now
 
   [43] Conv-ID: ab9b0708776e7a1a52b73304dec237d7
-       Turn-Nr: 0431
        Text:    if i could leave here, can u come to the park?
 
   [44] Conv-ID: 3b9018ee35c1acc518c18c40e5e8d1d6
-       Turn-Nr: 0440
        Text:    will u mind to come to my hotel
 
   [45] Conv-ID: 9384c3a07c81b30f3cf4fe978dd3d5a7
-       Turn-Nr: 0491
        Text:    just lookin at directions to ur place
 
   [46] Conv-ID: 1948dcb8c34daa2251b579d0d15df7ee
-       Turn-Nr: 0493
        Text:    ok well you should still have ur phone just incase i get lost or am running late i wont call untill im there and its really nesacerry
 
   [47] Conv-ID: 5b140df9f44c01842d410322bfaca7a4
-       Turn-Nr: 0519
        Text:    would you be able to call me later
 
   [48] Conv-ID: db22c80bc8ba0b01d643c8b2ca28a486
-       Turn-Nr: 0541
        Text:    thats cool, do u wanna come to a party at my house friday? we dont have to party, we can just hang in my room if you're not mad at me
 
   [49] Conv-ID: 57fac62074b0602711bf4ba54806f146
-       Turn-Nr: 0570
        Text:    too bad I can't call you when I'm almost there or something
 
   [50] Conv-ID: 95539910a8fe6035ecdded42181c5ab3
-       Turn-Nr: 0589
        Text:    well my goal i need to know where you live so i know how many hours im close to nashville
 
   [51] Conv-ID: 7d6d8351e9c5804bd937766606311843
-       Turn-Nr: 0646
        Text:    alright hon,i'm walking out the door in about 3 minutes...i'll see you a s a p....let's just let thing's go as they have this far and everything will fall into place and we'll have a very very good time and no regrets
 
