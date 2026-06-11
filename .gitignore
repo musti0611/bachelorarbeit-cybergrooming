@@ -17,7 +17,8 @@ venv/
 *.pt
 *.bin
 *.ckpt
-training/results/
+*.safetensors
+training/models/
 checkpoints/
 
 # Annotator-Ergebnisse werden committed (wissenschaftlich wertvoll)

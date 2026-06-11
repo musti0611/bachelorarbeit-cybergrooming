@@ -258,3 +258,88 @@ Der Annotator ist für die Verwendung in der Bachelorarbeit **vertretbar**, mit 
 
 ### Entscheidung: Prompt-Optimierung durchgeführt (v2)
 Nach der Fehleranalyse wurde der Prompt gezielt optimiert (siehe Abschnitt 7). Die v2-Ergebnisse zeigen eine deutliche Verbesserung; der Annotator wird in dieser Version für die weiteren Schritte verwendet.
+
+---
+
+## 9. Llama 3.3 70B Evaluationsergebnisse
+
+**Datum:** 9. Juni 2026
+**Modell:** meta-llama/Llama-3.3-70B-Instruct-Turbo (via Together AI)
+**Prompt:** v1 (identisch mit GPT-4o-mini Prompt v2 — gleicher `prompt_builder.py`)
+**Goldstandard:** `annotate_results_manual.txt` (manuell annotiert, verifiziert von Mareike Bassenge)
+**Setup:** 3 Few-Shot-Beispiele pro Label, restliche Beispiele als Evaluationsset
+**Evaluationsset:** 319 Beispiele (je 46–48 pro Label, KONTROLLE/NOETIGUNG: 40)
+**Ergebnisdatei:** `annotator/results/eval_meta_llama_Llama_3_3_70B_Instruct_Turbo_v1_*.json`
+
+### Ergebnisse
+
+| Label | Precision | Recall | F1 | Support |
+|---|---|---|---|---|
+| NEUTRAL | 0.932 | 0.891 | 0.911 | 46 |
+| VERTRAUENSAUFBAU | 0.882 | 0.978 | 0.928 | 46 |
+| INFORMATIONSGEWINNUNG | 0.667 | 0.957 | 0.786 | 46 |
+| GEHEIMHALTUNG/ISOLATION | 0.939 | 0.674 | 0.785 | 46 |
+| SEXUALISIERUNG | 0.920 | 0.979 | 0.948 | 47 |
+| KONTROLLE/NOETIGUNG | 0.964 | 0.675 | 0.794 | 40 |
+| OFFLINE-ESKALATION | 0.851 | 0.833 | 0.842 | 48 |
+| **MACRO** | **0.879** | **0.855** | **0.856** | **319** |
+
+**Overall Accuracy: 0.859** (0 API-Fehler)
+
+### Vergleich mit GPT-4o-mini v2
+
+| Label | GPT-4o-mini F1 | Llama F1 | Δ |
+|---|---|---|---|
+| NEUTRAL | 0.863 | 0.911 | **+0.048** |
+| VERTRAUENSAUFBAU | 0.860 | 0.928 | **+0.068** |
+| INFORMATIONSGEWINNUNG | 0.792 | 0.786 | -0.006 |
+| GEHEIMHALTUNG/ISOLATION | 0.800 | 0.785 | -0.015 |
+| SEXUALISIERUNG | 0.926 | 0.948 | **+0.022** |
+| KONTROLLE/NOETIGUNG | 0.800 | 0.794 | -0.006 |
+| OFFLINE-ESKALATION | 0.828 | 0.842 | **+0.014** |
+| **MACRO** | **0.838** | **0.856** | **+0.018** |
+| **Accuracy** | **0.840** | **0.859** | **+0.019** |
+
+**Llama 3.3 70B übertrifft GPT-4o-mini v2 um +0.018 Macro-F1** trotz identischem Prompt ohne Llama-spezifische Optimierung.
+
+### Stärken
+- **SEXUALISIERUNG** (F1=0.948): bestes Ergebnis aller bisherigen Runs
+- **VERTRAUENSAUFBAU** (F1=0.928): sehr stark, Recall=0.978 fast perfekt
+- **NEUTRAL** (F1=0.911): hohe Precision (0.932), kaum False Positives
+- 0 API-Fehler, vollständig stabile Ausführung
+
+### Schwächen und Fehleranalyse
+
+#### Verwechslungsmatrix (häufigste Fehler pro Label)
+
+| Label | Häufigste Verwechslung | Anzahl Fehler |
+|---|---|---|
+| NEUTRAL | → INFORMATIONSGEWINNUNG | 4/5 Fehler |
+| VERTRAUENSAUFBAU | → SEXUALISIERUNG | 1/1 Fehler |
+| INFORMATIONSGEWINNUNG | → OFFLINE-ESKALATION | 2/2 Fehler |
+| GEHEIMHALTUNG/ISOLATION | → INFORMATIONSGEWINNUNG | 10/15 Fehler |
+| SEXUALISIERUNG | → INFORMATIONSGEWINNUNG | 1/1 Fehler |
+| KONTROLLE/NOETIGUNG | → SEXUALISIERUNG / OFFLINE / INFO | je 3/13 (verteilt) |
+| OFFLINE-ESKALATION | → VERTRAUENSAUFBAU / INFO | je 3/8 (verteilt) |
+
+**Auffälligstes Muster:** INFORMATIONSGEWINNUNG ist der häufigste Fehlerziel-Label — NEUTRAL, GEHEIMHALTUNG/ISOLATION und SEXUALISIERUNG landen dort fälschlicherweise. Das erklärt die niedrige Precision von INFO (0.667): das Label zieht viele FP aus anderen Kategorien an.
+
+**GEHEIMHALTUNG/ISOLATION** (F1=0.785, Recall=0.674): schwächstes Label.
+- 15 von 46 Fällen falsch klassifiziert
+- Hauptverwechslung: GEHEIMHALTUNG → INFORMATIONSGEWINNUNG (10/15 Fehler)
+- Erklärung: Beide Labels können Fragen enthalten; Llama unterscheidet nicht immer zuverlässig zwischen "Informationen sammeln" und "Geheimhaltung anordnen"
+
+**INFORMATIONSGEWINNUNG** (F1=0.786, Precision=0.667): niedrige Precision.
+- Ursache: Falsch klassifizierte GEHEIMHALTUNG/ISOLATION-Fälle "fließen" in INFO hinein (FP↑)
+- Recall gut (0.957): echte INFO-Fälle werden zuverlässig erkannt
+
+**KONTROLLE/NOETIGUNG** (F1=0.794, Recall=0.675):
+- 13 von 40 Fällen falsch klassifiziert
+- Fehler verteilt über mehrere Labels: INFO (3×), SEX (3×), VERTR (2×), NEUTRAL (2×), OFFLINE (2×)
+- Gleiches Muster wie bei GPT: ambige Fälle mit gemischtem Inhalt (Befehl + sexuell, Schuldgefühl + neutral)
+
+### Wissenschaftliche Bewertung
+
+Macro-F1=0.856 ist für LLM-basierte Annotation mit unverändertem Prompt ein sehr gutes Ergebnis. Llama 3.3 70B ist mit dem gleichen Prompt ohne weiteres Tuning stärker als GPT-4o-mini v2. Der schwächste Bereich (GEHEIMHALTUNG/ISOLATION) folgt dem gleichen Muster wie bei GPT — es handelt sich um strukturell schwierige Grenzfälle, nicht um ein Llama-spezifisches Problem.
+
+**Der Llama 3.3 70B-Annotator (Prompt v1) wird als finaler Stand verwendet.**
