@@ -21,6 +21,9 @@ venv/
 training/models/
 checkpoints/
 
+# Rohe Label-Checkpoints zu groß für GitHub (>100MB) -> als pan12_labels.zip committet
+annotator/pan12_labels/
+
 # Annotator-Ergebnisse werden committed (wissenschaftlich wertvoll)
 !annotator/results/
 

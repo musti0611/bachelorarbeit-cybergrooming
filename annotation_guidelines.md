@@ -62,7 +62,9 @@ NEUTRAL ist kein Grooming-Stage im literarischen Sinne, aber methodisch notwendi
 ### 3.2 VERTRAUENSAUFBAU
 
 **Definition:**
-Nachrichten, die den Aufbau einer emotionalen Bindung zum Opfer bezwecken. Der Täter etabliert eine vertrauensvolle, exklusive oder romantisch-affektive Beziehung. Entscheidend ist laut Lorenzo-Dus et al. (2016): dieser Vertrauensaufbau ist **täuschender Natur** (*deceptive trust development*) und dient der späteren Ausnutzung.
+Nachrichten, die emotionale Bindungs- oder Zuneigungssprache enthalten: Kosenamen, Komplimente, Affektmarker, Ausdruck von Nähe, Exklusivität oder Fürsorge. Annotiert wird das **beobachtbare kommunikative Verhalten** (die sprachliche Oberfläche), **nicht eine unterstellte Absicht**.
+
+*Theoretischer Hintergrund (Motivation, kein Annotationskriterium):* In Grooming-Modellen entspricht diese Bindungssprache der Phase des Vertrauensaufbaus, die laut Lorenzo-Dus et al. (2016) täuschender Natur ist (*deceptive trust development*) und der späteren Ausnutzung dient. Ob im konkreten Fall tatsächlich eine solche Absicht vorliegt, entscheidet **nicht** der Annotator, sondern ergibt sich erst aus dem Gesamtverlauf der Konversation (Downstream-Klassifikation durch das BERT-Modell).
 
 **Theoretische Grundlage:**
 Alle zentralen Modelle benennen diese Phase:

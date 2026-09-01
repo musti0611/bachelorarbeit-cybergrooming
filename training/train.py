@@ -12,11 +12,13 @@ Usage:
 import argparse
 import os
 import json
+import random
 from pathlib import Path
 
 import pandas as pd
 import numpy as np
 import torch
+import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
 from transformers import (
     BertTokenizerFast,
@@ -39,11 +41,24 @@ parser.add_argument("--batch_size", type=int, default=8)
 parser.add_argument("--epochs", type=int, default=3)
 parser.add_argument("--lr", type=float, default=2e-5)
 parser.add_argument("--output_dir", default="models")
+parser.add_argument("--seed", type=int, default=42, help="random seed for reproducibility / multi-seed runs")
+parser.add_argument("--limit", type=int, default=None, help="use only the first N train/test rows (CPU smoke test)")
 args = parser.parse_args()
+
+# ── Reproducibility: seed everything ────────────────────────────────────────
+def set_seed(seed):
+    random.seed(seed)
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed_all(seed)
+
+set_seed(args.seed)
+g = torch.Generator()          # deterministic DataLoader shuffling
+g.manual_seed(args.seed)
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Device: {DEVICE}")
-print(f"Variant: {args.variant}")
+print(f"Variant: {args.variant} | Seed: {args.seed}")
 
 LABEL2ID = {"non-predator": 0, "predator": 1}
 ID2LABEL = {0: "non-predator", 1: "predator"}
@@ -57,30 +72,18 @@ BEHAVIOR_TOKENS = [
 
 # ── Dataset ─────────────────────────────────────────────────────────────────
 
-#Die Klasse lädt die CSV und macht daraus etwas, das Pytorch verstehen kann. 
+#Die Klasse liefert nur Rohtext + Label. Tokenisiert + gepadded wird erst pro Batch
+#(dynamisches Padding, siehe collate_fn) -> viel schneller, da nicht alles auf 512 aufgefuellt wird.
 class ChatSegmentDataset(Dataset):
-    def __init__(self, df, tokenizer, max_len):
-        self.texts = df["segment"].tolist()
+    def __init__(self, df):
+        self.texts = df["segment"].astype(str).tolist()
         self.labels = [LABEL2ID[l] for l in df["label"].tolist()]
-        self.tokenizer = tokenizer
-        self.max_len = max_len
 
     def __len__(self):
         return len(self.texts)
 
     def __getitem__(self, idx):
-        enc = self.tokenizer(
-            str(self.texts[idx]),
-            max_length=self.max_len,
-            padding="max_length",
-            truncation=True,
-            return_tensors="pt",
-        )
-        return {
-            "input_ids": enc["input_ids"].squeeze(),
-            "attention_mask": enc["attention_mask"].squeeze(),
-            "labels": torch.tensor(self.labels[idx], dtype=torch.long),
-        }
+        return {"text": self.texts[idx], "label": self.labels[idx]}
 
 # ── Load data ────────────────────────────────────────────────────────────────
 
@@ -89,6 +92,11 @@ test_path  = os.path.join(args.data_dir, f"{args.dataset}-test.csv")
 
 df_train = pd.read_csv(train_path, encoding="utf-8")
 df_test  = pd.read_csv(test_path,  encoding="utf-8")
+
+if args.limit:   # CPU smoke test: keep a small, class-balanced-ish subset
+    df_train = df_train.sample(n=min(args.limit, len(df_train)), random_state=args.seed).reset_index(drop=True)
+    df_test  = df_test.sample(n=min(args.limit, len(df_test)),  random_state=args.seed).reset_index(drop=True)
+    print(f"[smoke test] limited to {len(df_train)} train / {len(df_test)} test rows")
 
 print(f"\nTrain: {len(df_train)} samples | Test: {len(df_test)} samples")
 print("Train label dist:\n", df_train["label"].value_counts())
@@ -102,11 +110,26 @@ if args.variant == "with_labels":
     tokenizer.add_special_tokens({"additional_special_tokens": BEHAVIOR_TOKENS})
     print(f"Added {len(BEHAVIOR_TOKENS)} behavior-label special tokens to tokenizer")
 
-train_ds = ChatSegmentDataset(df_train, tokenizer, args.max_len)
-test_ds  = ChatSegmentDataset(df_test,  tokenizer, args.max_len)
+# Dynamisches Padding: tokenisiert einen Batch und fuellt nur bis zur laengsten
+# Nachricht IM BATCH auf (statt immer bis max_len=512). Das spart massiv Rechenzeit.
+def collate_fn(batch):
+    texts = [b["text"] for b in batch]
+    labels = torch.tensor([b["label"] for b in batch], dtype=torch.long)
+    enc = tokenizer(
+        texts,
+        max_length=args.max_len,
+        padding=True,          # pad to the longest sequence in THIS batch
+        truncation=True,
+        return_tensors="pt",
+    )
+    enc["labels"] = labels
+    return enc
 
-train_loader = DataLoader(train_ds, batch_size=args.batch_size, shuffle=True,  num_workers=0)
-test_loader  = DataLoader(test_ds,  batch_size=args.batch_size, shuffle=False, num_workers=0)
+train_ds = ChatSegmentDataset(df_train)
+test_ds  = ChatSegmentDataset(df_test)
+
+train_loader = DataLoader(train_ds, batch_size=args.batch_size, shuffle=True,  num_workers=0, generator=g, collate_fn=collate_fn)
+test_loader  = DataLoader(test_ds,  batch_size=args.batch_size, shuffle=False, num_workers=0, collate_fn=collate_fn)
 
 # ── Model ────────────────────────────────────────────────────────────────────
 
@@ -128,8 +151,10 @@ model.to(DEVICE)
 counts = df_train["label"].value_counts()
 n_neg = counts.get("non-predator", 1)
 n_pos = counts.get("predator", 1)
-pos_weight = torch.tensor([n_neg / n_pos], dtype=torch.float).to(DEVICE)
-print(f"\nClass weight for 'predator': {pos_weight.item():.2f}")
+# per-class weights for CrossEntropyLoss: upweight the rare 'predator' class
+class_weights = torch.tensor([1.0, n_neg / n_pos], dtype=torch.float).to(DEVICE)
+criterion = nn.CrossEntropyLoss(weight=class_weights)
+print(f"\nClass weights [non-predator, predator]: [1.00, {n_neg / n_pos:.2f}]")
 
 # ── Optimizer & Scheduler ────────────────────────────────────────────────────
 
@@ -157,8 +182,8 @@ def train_epoch(model, loader):
         attention_mask = batch["attention_mask"].to(DEVICE)
         labels         = batch["labels"].to(DEVICE)
 
-        outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
-        loss = outputs.loss
+        outputs = model(input_ids=input_ids, attention_mask=attention_mask)
+        loss = criterion(outputs.logits, labels)   # class-weighted loss (handles imbalance)
         total_loss += loss.item()
 
         loss.backward()
@@ -184,21 +209,22 @@ def evaluate(model, loader):
             all_preds.extend(preds.tolist())
             all_labels.extend(labels.tolist())
 
-    report = classification_report(all_labels, all_preds, target_names=["non-predator", "predator"])
+    report = classification_report(all_labels, all_preds, target_names=["non-predator", "predator"], zero_division=0)
     metrics = {
-        "f1":        f1_score(all_labels, all_preds, pos_label=1),
+        "f1":        f1_score(all_labels, all_preds, pos_label=1, zero_division=0),
         "precision": precision_score(all_labels, all_preds, pos_label=1, zero_division=0),
-        "recall":    recall_score(all_labels, all_preds, pos_label=1),
+        "recall":    recall_score(all_labels, all_preds, pos_label=1, zero_division=0),
     }
     return report, metrics
 
 
 # ── Run ──────────────────────────────────────────────────────────────────────
 
-out_dir = Path(args.output_dir) / f"{args.dataset}_{args.variant}"
+out_dir = Path(args.output_dir) / f"{args.dataset}_{args.variant}_seed{args.seed}"
 out_dir.mkdir(parents=True, exist_ok=True)
 
-best_f1 = 0
+best_f1 = -1
+best_metrics = None
 history = []
 
 for epoch in range(1, args.epochs + 1):
@@ -216,6 +242,7 @@ for epoch in range(1, args.epochs + 1):
     # Nach jeder Epoche wird das Modell auf den Testdaten evaluiert. Das Modell mit dem besten F1-Score wird gespeichert. So hat man am Ende nicht das "letzte" Modell, sondern das "beste".
     if metrics["f1"] >= best_f1:
         best_f1 = metrics["f1"]
+        best_metrics = {"epoch": epoch, **metrics}
         model.save_pretrained(str(out_dir / "best_model"))
         tokenizer.save_pretrained(str(out_dir / "best_model"))
         print(f"  -> Saved best model (F1={best_f1:.4f})")
@@ -225,5 +252,18 @@ for epoch in range(1, args.epochs + 1):
 with open(out_dir / "training_history.json", "w") as f:
     json.dump(history, f, indent=2)
 
-print(f"\nDone. Best F1: {best_f1:.4f}")
+# compact summary for multi-seed aggregation
+summary = {
+    "dataset": args.dataset,
+    "variant": args.variant,
+    "seed": args.seed,
+    "model_name": args.model_name,
+    "max_len": args.max_len,
+    "epochs": args.epochs,
+    "best": best_metrics,
+}
+with open(out_dir / "summary.json", "w") as f:
+    json.dump(summary, f, indent=2)
+
+print(f"\nDone. Best F1: {best_f1:.4f}  (seed {args.seed}, {args.variant})")
 print(f"Model saved to: {out_dir / 'best_model'}")

@@ -78,7 +78,9 @@ def build_system_prompt(data: dict, n_fewshot: int = 3) -> str:
     lines = [
         "You are an expert annotator for cybergrooming research.",
         "",
-        "Classify the chat message (written by a sexual predator) into exactly ONE of these 7 labels.",
+        "Classify the chat message into exactly ONE of these 7 labels based on its observable "
+        "communicative behavior — the surface content of the message itself, regardless of who "
+        "wrote it or what their underlying intent may be.",
         "Reply with ONLY the label name. Nothing else. No explanation.",
         "",
         "=== LABELS ===",
