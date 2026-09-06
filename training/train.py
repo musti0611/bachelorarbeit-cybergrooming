@@ -93,6 +93,21 @@ test_path  = os.path.join(args.data_dir, f"{args.dataset}-test.csv")
 df_train = pd.read_csv(train_path, encoding="utf-8")
 df_test  = pd.read_csv(test_path,  encoding="utf-8")
 
+# Leere/NaN-Segmente entfernen: einige Chats haben ein leeres "segment"-Feld
+# (in PAN12: 13 im Train-, 27 im Test-Set, alle non-predator). pandas liest die
+# als NaN ein -> der Tokenizer bekaeme dann kein str und wirft einen ValueError.
+def clean_segments(df, split):
+    df["segment"] = df["segment"].fillna("").astype(str).str.strip()
+    before = len(df)
+    df = df[df["segment"] != ""].reset_index(drop=True)
+    removed = before - len(df)
+    if removed:
+        print(f"[clean] {split}: {removed} leere Segmente entfernt")
+    return df
+
+df_train = clean_segments(df_train, "train")
+df_test  = clean_segments(df_test,  "test")
+
 if args.limit:   # CPU smoke test: keep a small, class-balanced-ish subset
     df_train = df_train.sample(n=min(args.limit, len(df_train)), random_state=args.seed).reset_index(drop=True)
     df_test  = df_test.sample(n=min(args.limit, len(df_test)),  random_state=args.seed).reset_index(drop=True)
@@ -113,7 +128,7 @@ if args.variant == "with_labels":
 # Dynamisches Padding: tokenisiert einen Batch und fuellt nur bis zur laengsten
 # Nachricht IM BATCH auf (statt immer bis max_len=512). Das spart massiv Rechenzeit.
 def collate_fn(batch):
-    texts = [b["text"] for b in batch]
+    texts = [str(b["text"]) for b in batch]   # str() erzwingen: schuetzt vor NaN/float-Werten
     labels = torch.tensor([b["label"] for b in batch], dtype=torch.long)
     enc = tokenizer(
         texts,
